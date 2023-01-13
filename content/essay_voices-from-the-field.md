@@ -1,9 +1,9 @@
 ---
-label: O
+label: V
 title: American Photographs
 subtitle: Evans in Middletown
 layout: essay
-order: 30
+order: 35
 class: page-one
 contributor:
   - id: jkeller
