@@ -45,17 +45,108 @@ publisher:
 
 contributor_as_it_appears:
 
-contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+# contributor:
+#   - id: jkeller
+#     type: primary
+#     first_name: Judith
+#     last_name: Keller
+#     title: Senior Curator of Photographs
+#     affiliation: J. Paul Getty Museum
+#     bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
+#     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+#     image: contributors/judith-keller.jpg
 
+  - id: lkargère
+    type: primary
+    first_name: Lucretia
+    last_name: Kargère
+    title: Conservator
+    affiliation: Metropolitan Museum of Art, New York
+    bio: "Lucretia Kargère is a Conservator at the Metropolitan Museum of Art, New York"
+    url:
+    image:
+
+  - id: rsolé
+    type: primary
+    first_name: Ramon
+    last_name: Solé
+    title: Conservator-Restorer
+    affiliation: Centre de Restauració de Béns Mobles de Catalunya, Barcelona
+    bio: "Ramon Solé is a Conservator-Restorer, adjunct to the Centre de Restauració de Béns Mobles de Catalunya, Barcelona"
+    url:
+    image:
+
+  - id: fcaró
+    type: primary
+    first_name: Federico
+    last_name: Caró
+    title: Research Scientist
+    affiliation: Metropolitan Museum of Art, New York
+    bio: "Federico Caró is a Research Scientist at the Metropolitan Museum of Art"
+    url:
+    image:
+
+  - id: jlprada
+    type: primary
+    first_name: José Luis
+    last_name: Prada
+    title: Professor of Geological Science
+    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
+    bio: "José Luis Prada is Professor of Geological Science at the Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya"
+    url:
+    image:
+
+  - id: nguasch-ferré
+    type: primary
+    first_name: Núria
+    last_name: Guasch-Ferré
+    title: Professor of Geological Science
+    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
+    bio: "Núria Guasch-Ferré is at the Departament d’Arts i Conservació Restauració, Facultat de Belles Arts, Universitat de Barcelona."
+    url:
+    image:
+
+  - id: abosselmann-ruickbie
+    type: primary
+    first_name: Antje
+    last_name: Bosselmann-Ruickbie
+    title: Professor of Geological Science
+    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
+    bio: "Antje Bosselmann-Ruickbie studied art history and archaeology at Bonn University, Germany. Her MA focused on style and techniques of Byzantine architecture, and her PhD thesis on Byzantine jewellery won her two academic awards (*Byzantinischer Schmuck des 9. bis frühen 13. Jahrhunderts*, Wiesbaden: Reichert, 2011). Antje has been assistant professor at Mainz University and is currently at Gießen University, at the Institute of Art History. She is a fellow of the Royal Historical Society and an associate member of the Leibniz Science Campus Mainz/Frankfurt: Byzantium between Orient and Occident. Her research was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Fund), Deutscher Akademischer Austauschdienst (DAAD, Germany Academic Exchange Service), Gerda Henkel Foundation, Dumbarton Oaks Research Library and Collection, and others. Currently, Antje is working on a book project focusing on the object biography of the silver casket in Trier within the context of cultural entanglements in the Mediterranean and beyond. She has published extensively on Byzantine jewellery, goldsmiths’ works and enamels, on aspects of cultural entanglement in the Middle Ages, on Byzantine magic, and on the Middle Ages in popular culture, especially in Heavy Metal music."
+    url:
+    image:
+
+  - id: rframe
+    type: primary
+    first_name: Rowan
+    last_name: Frame
+    title:  Conservator
+    affiliation: Julia Nagle Conservation Ltd., London
+    bio:
+    url:
+    image:
+
+# Sabouni et al
+
+  # - id: jlprada
+  #   type: primary
+  #   first_name: José Luis
+  #   last_name: Prada
+  #   title: Professor of Geological Science
+  #   affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
+  #   bio:
+  #   url:
+  #   image:
+
+  # - id: jlprada
+  #   type: primary
+  #   first_name: José Luis
+  #   last_name: Prada
+  #   title: Professor of Geological Science
+  #   affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
+  #   bio:
+  #   url:
+  #   image:
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
