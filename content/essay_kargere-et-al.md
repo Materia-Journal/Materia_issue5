@@ -6,7 +6,11 @@ layout: essay
 order: 33
 class: page-one
 contributor:
-  - id: jkeller
+  - id: lkargère
+  - id: rsolé
+  - id: fcaró
+  - id: jlprada
+  - id: nguasch-ferré
 abstract: |
   ABSTRACT?
 ---
