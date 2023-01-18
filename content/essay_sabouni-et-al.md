@@ -1,9 +1,9 @@
 ---
-label: O
-title: American Photographs
-subtitle: Evans in Middletown
+label: IV
+title: Technical Study of a Tibetan Five-Panel Initiation Crown
+subtitle:
 layout: essay
-order: 30
+order: 34
 class: page-one
 contributor:
   - id: jkeller

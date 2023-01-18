@@ -13,9 +13,9 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
+title: Materia
+subtitle: "Journal of Technical Art History"
+reading_line: Vol. 1, Issue 3
 short_title:
 
 description:
@@ -28,7 +28,7 @@ description:
 
 pub_date: 2022-12-01 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: journal-periodical # book | journal-periodical | other
 
 identifier:
   isbn:
@@ -60,7 +60,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2022 Materia 
 
 license:
   name: Creative Commons Attribution 4.0 International License
