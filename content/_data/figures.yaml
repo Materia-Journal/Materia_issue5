@@ -1,121 +1,5 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
-
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
-
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
-
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
-
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-
   - id: "1.1"
     src: figures/bosselmann/fig-1-bosselmann-ruickbie.jpg
     caption: "**Fig. 1** Trier casket, Sicily, mid-12th to early 13th century. Silver, gilded on the exterior, l. 11 13/16 in. (30 cm), w. 9 1/16 in. (23 cm), h. overall 9 1/16 in. (23 cm), h. including feet 9 9/16 in. (24.2 cm). Treasury of the Cathedral Saint Peter, Trier, inv. no. 17. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz."
@@ -263,79 +147,68 @@ figure_list:
   - id: "2.1"
     label: "**Fig. 1**"
     src: figures/frame/fig-1-frame.jpg
-    caption: "Attrib. John Constable, *Sky Study, Sunset*, ca.1821-22, oil on paper laid on paper, 14.5 x 23.0 cm. Fitzwilliam Museum, Cambridge PD.7-1961.
-Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: Attrib. John Constable, *Sky Study, Sunset*, ca.1821-22, oil on paper laid on paper, 14.5 x 23.0 cm. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
     alt: 
 
   - id: "2.2"
     label: "**Fig. 2**"
     src: figures/frame/fig-2-frame.jpg
-    caption: "Attrib. John Constable, *Sky Study with Mauve Clouds*, ca.1821-22, oil on paper laid on paper, 14.2 x 22.2 cm. Fitzwilliam Museum, Cambridge PD.8-1951
-Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: Attrib. John Constable, *Sky Study with Mauve Clouds*, ca.1821-22, oil on paper laid on paper, 14.2 x 22.2 cm. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
 
   - id: "2.3"
     label: "**Fig. 3**"
     src: figures/frame/fig-3-frame.jpg
-    caption: "Attrib. John Constable, *At Hampstead Looking towards Harrow*, ca.1821-22, oil on paper laid on wooden panel, 16.5 x 23.4 cm. Fitzwilliam Museum, Cambridge PD79-1959.
-Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: Attrib. John Constable, *At Hampstead Looking towards Harrow*, ca.1821-22, oil on paper laid on wooden panel, 16.5 x 23.4 cm. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
 
   - id: "2.4"
     label: "**Fig. 4**"
     src: figures/frame/fig-4-frame.jpg
-    caption: "John Constable, *Sky Study with a Shaft of Sunlight*, ca.1821-22, oil on paper, 13.6 x 15.0 cm. Fitzwilliam Museum, Cambridge PD.222-1961
-Digital image courtesy of Chris Titmus, Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: "John Constable, *Sky Study with a Shaft of Sunlight*, ca.1821-22, oil on paper, 13.6 x 15.0 cm. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Chris Titmus, Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
 
   - id: "2.5"
     label: "**Fig. 5**"
     src: figures/frame/fig-5-frame.jpg
-    caption: "*Sky Study with Mauve Clouds* micrograph of top left corner showing laminated paper support layers. Fitzwilliam Museum, Cambridge PD.8-1951
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study with Mauve Clouds* micrograph of top left corner showing laminated paper support layers. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.6"
     label: "**Fig. 6**"
     src: figures/frame/fig-6-frame.jpg
-    caption: "*Sky Study withMauve Clouds* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.7-1961.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study withMauve Clouds* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.7"
     label: "**Fig. 7**"
     src: figures/frame/fig-7-frame.jpg
-    caption: "*Sky Study, Sunset* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.8-1951.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.8"
     label: "**Fig. 8**"
     src: figures/frame/fig-8-frame.jpg
-    caption: "*At Hampstead Looking towards Harrow* magnified paint sample viewed in cross-section showing: 2. pale pink ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum, Cambridge PD79-1959.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*At Hampstead Looking towards Harrow* magnified paint sample viewed in cross-section showing: 2. pale pink ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.9"
     label: "**Fig. 9**"
     src: figures/frame/fig-9-frame.jpg
-    caption: "*At Hampstead Looking towards Harrow* detail and micrographs showing two small pinholes along the bottom edge of the original support of *At Hampstead* where it meets a strip added later to the composition. Fitzwilliam Museum, Cambridge PD79-1959.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*At Hampstead Looking towards Harrow* detail and micrographs showing two small pinholes along the bottom edge of the original support of *At Hampstead* where it meets a strip added later to the composition. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.10"
     label: "**Fig. 10**"
     src: figures/frame/fig-10-frame.jpg
-    caption: "*Sky Study with a Shaft of Sunlight* raking light detail showing three pinholes across the top edge, and a circular indentation around the central pinhole indicative of a pushpin. Fitzwilliam Museum, Cambridge PD.222-1961.
-Digital image courtesy of Adele Wright and Hamilton Kerr Institute."
+    caption: "*Sky Study with a Shaft of Sunlight* raking light detail showing three pinholes across the top edge, and a circular indentation around the central pinhole indicative of a pushpin. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Adele Wright and Hamilton Kerr Institute."
     credit: 
 
   - id: "2.11"
     label: "**Fig. 11**"
     src: figures/frame/fig-11-frame.jpg
-    caption: "*Sky Study, Sunset* digitally combined raking light details showing a faint circular indentation reminiscent of that made by the outer edges of a pushpin. Fitzwilliam Museum, Cambridge PD.7-1961.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* digitally combined raking light details showing a faint circular indentation reminiscent of that made by the outer edges of a pushpin. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.12"
@@ -364,7 +237,7 @@ Digital image courtesy of Hamilton Kerr Institute."
 
   - id: "2.16"
     label: "**Fig. 16**"
-    src: 
+    src: figures/frame/fig-16-frame.jpg
     caption: "*At Hampstead Looking towards Harrow* micrograph showing wood fibres and dried paint caught in the paint layers. Fitzwilliam Museum, CambridgePD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
@@ -401,8 +274,7 @@ Digital image courtesy of Hamilton Kerr Institute."
   - id: "2.22"
     label: "**Fig. 22**"
     src: figures/frame/fig-22-frame.jpg
-    caption: "*Sky Study with Mauve Clouds* micrograph showing the blue ground layer visible through interstices in the opaque paint layer caused by the retention of brushmarks. Fitzwilliam Museum, Cambridge PD.8-1951.
-Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study with Mauve Clouds* micrograph showing the blue ground layer visible through interstices in the opaque paint layer caused by the retention of brushmarks. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
 
   - id: "2.23"
@@ -411,7 +283,7 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "John Constable, *Sky Study with a Shaft of Sunlight* micrograph showing the blue ground layer visible through interstices in the opaque paint layer caused by the retention of brushmarks and a fingerprint. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Adele Wright, Hamilton Kerr Institute."
     credit: 
 
-- id: "vid1"
+  - id: "vid1"
     poster: figures/frame/video-1-still.jpg
     media_id: QlVJRCraC0E
     media_type: youtube
@@ -419,7 +291,7 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "The pre-coloured grounds, particularly the blue grounds, made it possible to sketch quickly enough to capture the cloudscapes before they changed substantially."
     credit: 
 
-- id: "vid2"
+  - id: "vid2"
     poster: figures/frame/video-2-still.jpg
     media_id: sk2fdVEL4g4
     media_type: youtube
@@ -427,7 +299,7 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "The luminosity and depth of the sky was challenging to represent in paint."
     credit: 
 
-- id: "vid3"
+  - id: "vid3"
     poster: figures/frame/video-3-still.jpg
     media_id: iZQBdYGllgA
     media_type: youtube
@@ -435,7 +307,7 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "A pause to mix colours was long enough for the skyscape to change completely. "
     credit: 
 
-- id: "vid4"
+  - id: "vid4"
     poster: figures/frame/video-4-still.jpg
     media_id: iBTc7UU9Oio
     media_type: youtube
@@ -443,12 +315,12 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "Attempting to get the right shade of the sky's blue, or of the shadow beneath a bank of cloud on the horizon, meant rushing to capture the rest of the clouds after they had already disappeared."
     credit: 
 
-- id: "vid5"
+  - id: "vid5"
     poster: figures/frame/video-5-still.jpg
     media_id: qaO9EWSHNzQ
     media_type: youtube
     label: "Video 5"
-    caption: "This compilation of stop-motion videos shows author Rowan Frame "skying" in the style of John Constable, both in the studio and outdoors."
+    caption: "This compilation of stop-motion videos shows author Rowan Frame \"skying\" in the style of John Constable, both in the studio and outdoors."
     credit: 
 
   - id: "3.1"
@@ -589,170 +461,170 @@ Digital image courtesy of Hamilton Kerr Institute."
     caption: "*Five-Panel Initiation Crown*, Detail of a small area of loss on the proper right edge of Panel 2. The red paint has worn away along the edge, revealing the beige ground layer underneath and the laminated cotton textile substrate is also visible through a loss in the ground layer."
     alt: "Tightly woven fabric is visible where red paint and beige ground has flaked away from the edge of the panel"
 
-    - id: "4.9"
+  - id: "4.9"
     label: "**Fig. 9**"
     src: figures/sabouni/fig-9-sabouni_et_al.jpg
     caption: "*Five-Panel Initiation Crown*, Detail of a small area of loss to the *kyungbur* near the bottom edge of Panel 2, revealing the black underdrawing that was added on top of the ground layer."
     alt: "Black ink underdrawing on a beige ground layer visible surrounded by gilding covered with dark orange coating."
 
- - id: "4.10"
+  - id: "4.10"
     label: "**Fig. 10**"
     src: figures/sabouni/fig-10-sabouni_et_al.jpg
     caption: "(A). Cross-section from a gilded area (Panel 4, Sample 1), visible light, 100x: (a) ground; (b) *snag tsha* ink underdrawing; (c) *kyungbur* raised decoration; (d) orpiment-based gilding preparatory layer, or *ba bla*; (e) size; (f) gold leaf, or *gser shog*; (g) clear coating. (B) Cross-section from a painted area (Panel 5, Sample 2), visible light, 100x. Ground and ink underdrawing not shown: (a) *kyungbur*; (b) vermilion or *mtshal*, paint; (c) azurite, or *bod mthing*, paint; (d) purple paint made with mauve organic colorant, or, *zi hung*; (e) clear coating."
     alt: "Bright yellow dome of kyungbur with thin layers of yellow and red paint and dark brown coating with a blue background."
     
- - id: "4.11"
+  - id: "4.11"
     label: "**Fig. 11**"
     src: figures/sabouni/fig-11-sabouni_et_al.jpg
     caption: "False-color SEM-EDS map of cross-section sample 1 (panel 4), showing the distribution of elements silicon (cyan), aluminum (red), iron (yellow), and potassium (purple), in the kyungbur layer at 650x. Trace amounts of sodium, sulfur, magnesium, titanium, and calcium were detected but not mapped."
     alt: "Grayscale scanning electron microscopy image showing the elements silicon, iron, aluminum and potassium in the *kyungbur* layer"
 
- - id: "4.12a"
+  - id: "4.12a"
     label: "**Fig. 12a**"
     src: figures/sabouni/fig-12-sabouni_et_al.jpg
     caption: "*Five-Panel Initiation Crown*, (a) The front side of panel 1 after removal from the backing board."
     alt: "Torana-shaped panel with gilded raised decoration depicting a seated figure with some outlines in black and a red background."
 
- - id: "4.12b"
+  - id: "4.12b"
     label: "**Fig. 12b**"
     src: figures/sabouni/fig-12.2-sabouni_et_al.jpg
     caption: "*Five-Panel Initiation Crown*, (b) a detail of the deity seated on a lotus petal throne."
     alt: "Torana-shaped panel with gilded raised decoration depicting a seated figure with some outlines in black and a red background."
 
- - id: "4.13"
+  - id: "4.13"
     label: "**Fig. 13**"
     src: figures/sabouni/fig-13-sabouni_et_al.jpg
     caption: "Detail of the black line that surrounds the central figure with blue and green pigment visible in cracks and areas of loss."
     alt: "Close up of vertical lines starting on the left with red, blue, black, and yellow, with green visible through cracks in the black."
 
- - id: "4.14"
+  - id: "4.14"
     label: "**Fig. 14**"
     src: figures/sabouni/fig-14-sabouni_et_al.jpg
     caption: "Detail of the lotus petal throne on panel 2 revealing the alternating blue and green pigments under the layer of black paint."
     alt: "Close up of two area of black surface with bright blue and green visible through flaked-off losses at the edges."
 
- - id: "4.15"
+  - id: "4.15"
     label: "**Fig. 15**"
     src: figures/sabouni/fig-15-sabouni_et_al.jpg
     caption: "Elemental maps of arsenic, copper, iron, lead, mercury, and gold from the front surface of Panel 3."
     alt: "Six elemental maps of one panel, each with a color representing the part of the panel’s design where that element is present."
 
- - id: "4.16"
+  - id: "4.16"
     label: "**Fig. 16**"
     src: figures/sabouni/fig-16-sabouni_et_al.jpg
     caption: "Elemental map of lead (sky blue), copper (navy), and mercury (magenta) for each of the five panels. Panels are numbered from 1-5 from left to right."
     alt: "Bright false-color images depicting each panel in sky blue, navy, and magenta with the same pattern of colors across each of the five panels."
 
- - id: "4.17"
+  - id: "4.17"
     label: "**Fig. 17**"
     src: figures/sabouni/fig-17-sabouni_et_al.jpg
     caption: "Detail of the lotus petals of the throne on Panel 3 showing the subtle variation in color between the lead-based pigment (on either side) and mercury-based pigment (at center)."
     alt: "Detail of the surface of a panel showing alternating red and red-orange painted areas surrounded by black and gilded surface."
 
- - id: "4.18"
+  - id: "4.18"
     label: "**Fig. 18**"
     src: figures/sabouni/fig-18-sabouni_et_al.jpg
     caption: " (Left): Cross-section from a gilded area (Panel 4, Sample 1), visible light, 200x: ground (a) and *snag tsha* ink underdrawing (b) not shown; (c) *kyungbur* raised decoration; (d) orpiment-based gilding preparatory layer, or *ba bla*; (e) size; (f) gold leaf, or gser shog; (g) clear coating. (Right): SEM-EDS false color elemental map of sample showing distribution of arsenic (yellow) and gold (purple)."
     alt: "Cross-section of coating over yellow paint layer and kyungbur on left with scanning electron microscopy map of gold and arsenic on right."
 
- - id: "4.19"
+  - id: "4.19"
     label: "**Fig. 19**"
     src: figures/sabouni/fig-19-sabouni_et_al.jpg
     caption: "Detail of the green pigment visible through cracks in the L-shaped bracket above the figure on panel 5."
     alt: "Detail of the surface of a panel showing green pigment visible through cracks in the gilding layer over the L-bracket design."
 
- - id: "4.20"
+  - id: "4.20"
     label: "**Fig. 20**"
     src: figures/sabouni/fig-20-sabouni_et_al.jpg
     caption: "Detail of the vertical support under the lotus petal throne on panel 2 revealing the green pigments visible through the cracks in the gilding and coating layers."
     alt: "Detail of the surface of a panel showing green pigment visible through cracks in the gilding layer in the vertical line below the throne."
 
- - id: "4.21"
+  - id: "4.21"
     label: "**Fig. 21**"
     src: figures/sabouni/fig-21-sabouni_et_al.jpg
     caption: "(A). Cross-section from an area with darkened coating over blue paint (Panel 4, Sample 3), visible light, 200x: (a) azurite, or *bod mthing*, paint with no discoloration of blue particles; (b) darkened clear coating, with dust on top surface. (B): Same sample in UV light, the clear coating contains no pigmentation, and exhibits a quenched autofluorescence consistent with its identification as an oil-based layer. This sample supports the theory that the darkened appearance of this area is not due to a black paint, but a darkened oil-based coating that has reacted with the copper-based paint beneath."
     alt: "one cross section shown in visible and UV illumination showing the blue particles under a dark brown unpigmented layer."
 
- - id: "4.22"
+  - id: "4.22"
     label: "**Fig. 22**"
     src: figures/sabouni/fig-22-sabouni_et_al.jpg
     caption: "Detail of the line surrounding the central figure (panel?) showing the innermost line of purple/pink paint. Imaged with a digital camera through a Dermlite DL4 with 10x magnification and subsequently cropped and enlarged."
     alt: "Close up view of the lines surrounding the central figure on a panel showing a pink line at the interior."
 
- - id: "4.23"
+  - id: "4.23"
     label: "**Fig. 23**"
     src: figures/sabouni/fig-23-sabouni_et_al.jpg
     caption: "(Left): Cross-section from a painted area (Panel 5, Sample 2), visible light, 200x: (a) kyungbur raised decoration; (b) vermilion, or *mtshal*, paint layer; (c) azurite, or *bod mthing*, paint layer; (d) mauve purple, or *zi hung*, paint layer; (e) clear coating. (Right): SEM-EDS false color elemental map of sample showing distribution of silicon (cyan), mercury (red), copper (green), and magnesium (purple)."
     alt: "Microscope and SEM image of a cross-section shows several layers of paint including purple, blue, and red, over yellow material."
 
- - id: "4.24"
+  - id: "4.24"
     label: "**Fig. 24**"
     src: figures/sabouni/fig-24-sabouni_et_al.jpg
     caption: "Cross-section from a gilded area (Panel 4, Sample 1), ultraviolet light, 200x: ground (a) and *snag tsha* ink underdrawing (b) not shown; (c) *kyungbur* raised decoration; (d) orpiment-based gilding preparatory layer, or *ba bla*; (e) size; (f) gold leaf, or *gser shog*; (g) clear coating."
     alt: "Microscope image of cross-section in UV showing white fluorescence in areas above and below a thin meandering line of gold leaf."
 
- - id: "4.25"
+  - id: "4.25"
     label: "**Fig. 25**"
     src: figures/sabouni/fig-1-sabouni_et_al.gif
     caption: "Detail image showing the paper-based metal threads, highlighted in red from the front of Panel 2."
     alt: "Magnified view of a complex weave pattern including paper wefts, which are highlighted in blinking red for emphasis"
 
- - id: "4.26"
+  - id: "4.26"
     label: "**Fig. 26**"
     src: figures/sabouni/fig-26-sabouni_et_al.jpg
     caption: "Leila Sabouni preparing to remove the backing fabric from the reverse of the panels after removal of the backing fabric from the paper board and frame."
     alt: "Fair-skinned woman with fabric showing shadow of five attached panels underneath and dark mat with patterns from the panels."
 
- - id: "4.27a"
+  - id: "4.27a"
     label: "**Fig. 27a**"
     src: figures/sabouni/fig-27-sabouni_et_al.jpg
     caption: "*Five-Panel Initiation Crown*, The front side of panel 1 digitally recolored using Photoshop to show the color scheme present underneath the black paint and the areas of gilding in the support below the throne and the L-shaped brackets above the figure."
     alt: "Gilded torana-shaped panel depicting a seated figure with red background and details in blue, green, orange, red, and purple."
 
- - id: "4.27b"
+  - id: "4.27b"
     label: "**Fig. 27b**"
     src: figures/sabouni/fig-27.2-sabouni_et_al.jpg
     caption: "*Five-Panel Initiation Crown*, The front side of panel 1 digitally recolored using Photoshop to show the color scheme present underneath the black paint and the areas of gilding in the support below the throne and the L-shaped brackets above the figure."
     alt: "Gilded torana-shaped panel depicting a seated figure with red background and details in blue, green, orange, red, and purple."
 
- - id: "4.28"
+  - id: "4.28"
     label: "**Fig. 28**"
     src: figures/sabouni/fig-28-sabouni_et_al.jpg
     caption: "A detail of the black line surrounding the central figure on panel 1 digitally recolored using Photoshop to show the colors of the painted lines present below the black and red paint. The sequence of colors starting from the inside are: red, purple/pink, gilt *kyungbur*, blue, green, yellow, and red."
     alt: "Detail of curved lines, left to right: gilded line, red, yellow, green, blue, gilded line, and purple, with red background."
 
- - id: "5.1"
+  - id: "5.1"
     label: "**Fig. 1**"
     src: figures/interviews/fig-1-interviews.jpg
     caption: "Sam Hodge, *Carboniferous 10*, coal pigment in gum arabic on Arches paper, with collage of coal pigment and acrylic medium on Japanese tissue, 2021, 39 x 29 cm."
     alt: 
 
- - id: "5.2"
+  - id: "5.2"
     label: "**Fig. 2**"
     src: figures/interviews/fig-2-interviews.jpg
     caption: "Sam Hodge, *Exchange*, coal dust and acrylic medium on Japanese tissue, 2021, 81 x 117cm."
 
-- id: "5.3"
+  - id: "5.3"
     label: 
     src: figures/interviews/bio-1.jpg
     caption: "Anisha Gupta"
 
-- id: "5.4"
+  - id: "5.4"
     label: 
     src: figures/interviews/bio-2.jpg
     caption: "Catherine Nunn"
 
-- id: "5.5"
+  - id: "5.5"
     label: 
     src: figures/interviews/bio-3.jpg
     caption: "Dr. Nicholas Eastaugh"
 
-- id: "5.6"
+  - id: "5.6"
     label: 
     src: figures/interviews/bio-4.jpg
     caption: "Gerry Alabone"
 
-- id: "5.7"
+  - id: "5.7"
     label: 
     src: figures/interviews/bio-5.jpg
     caption: "Kendall Frances"
