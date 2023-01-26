@@ -27,7 +27,7 @@ figure_list:
     alt: "Silver casket: plate set into the frame with central medallion and knot motifs. Frame with punched lanceolate petals."
 
   - id: "1.5"
-    label: "**Fig. 3**"
+    label: "**Fig. 5**"
     src: figures/bosselmann/fig-5-bosselmann-ruickbie.jpg
     caption: "Trier casket, detail of front. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz."
     credit: 
@@ -102,7 +102,7 @@ figure_list:
     credit: 
     alt: "Siculo-Arabic ivory casket, mid-12th century, Benaki Museum Athens, painted medallions similar to bottom of Trier casket."
 
-  - id: "1. 16"
+  - id: "1.16"
     label: "**Fig. 16**"
     src: figures/bosselmann/fig-16-bosselmann-ruickbie.jpg
     caption: "Siculo-Arabic ivory casket, detail. From Knipp, *Siculo-Arabic Ivories*, 323, fig. 6b."
