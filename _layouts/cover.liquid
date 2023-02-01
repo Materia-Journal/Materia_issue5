@@ -22,14 +22,7 @@ layout: base.11ty.js
         {% endif %}
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
-      <div class="contributor">
-        <span class="visually-hidden">Contributors:&nbsp;</span>
-        {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
-        {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
-        {% endif %}
-      </div>
+
     </div>
   </div>
 </section>
