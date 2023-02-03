@@ -307,6 +307,12 @@ figure_list:
     credit: 
     alt: "Magnified thin but textured brushmarks in pink paint over a blue background and a fingerprint mark"
 
+  - id: "2.24"
+    label: "**Fig. 24**"
+    src: figures/frame/fig-24-frame.jpg
+    caption: "Mock-ups of lead white paint with different mediums and different extenders showing the effect of medium and extenders on the retention and texture of brushmarks."
+    credit: 
+
   - id: "vid1"
     poster: figures/frame/video-1-still.jpg
     media_id: QlVJRCraC0E
@@ -674,4 +680,10 @@ figure_list:
     label: 
     src: figures/interviews/bio-5.jpg
     caption: "Kendall Frances"
+
+  - id: "5.8"
+    label: 
+    src: figures/interviews/bio-6.jpg
+    caption: "Prof. Ann-Sophie Lehmann"
+
 
