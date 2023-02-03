@@ -151,139 +151,161 @@ figure_list:
     src: figures/frame/fig-1-frame.jpg
     caption: Attrib. John Constable, *Sky Study, Sunset*, ca.1821-22, oil on paper laid on paper, 14.5 x 23.0 cm. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
-    alt: 
+    alt: "A sketch in oils on paper of a skyscape at sunset, with dark blue clouds and red-orange sunset over a pale blue background."
 
   - id: "2.2"
     label: "**Fig. 2**"
     src: figures/frame/fig-2-frame.jpg
     caption: Attrib. John Constable, *Sky Study with Mauve Clouds*, ca.1821-22, oil on paper laid on paper, 14.2 x 22.2 cm. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
+    alt: "A sketch in oils on paper of mauve-coloured clouds over a pale blue sky"
 
   - id: "2.3"
     label: "**Fig. 3**"
     src: figures/frame/fig-3-frame.jpg
     caption: Attrib. John Constable, *At Hampstead Looking towards Harrow*, ca.1821-22, oil on paper laid on wooden panel, 16.5 x 23.4 cm. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
+    alt: "A landscape sketch in oils on paper with most of the picture devoted to a stormy sky and a strip of silhouetted trees"
 
   - id: "2.4"
     label: "**Fig. 4**"
     src: figures/frame/fig-4-frame.jpg
     caption: "John Constable, *Sky Study with a Shaft of Sunlight*, ca.1821-22, oil on paper, 13.6 x 15.0 cm. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Chris Titmus, Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
+    alt: "A sketch in oils on paper of a skyscape showing a shaft of sunlight emerging from behind a cloud"
 
   - id: "2.5"
     label: "**Fig. 5**"
     src: figures/frame/fig-5-frame.jpg
     caption: "*Sky Study with Mauve Clouds* micrograph of top left corner showing laminated paper support layers. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified damaged corner of a sketch showing the individual layers of the paper support"
 
   - id: "2.6"
     label: "**Fig. 6**"
     src: figures/frame/fig-6-frame.jpg
     caption: "*Sky Study withMauve Clouds* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified paint sample viewed in cross-section showing blue then pale pink paint layers above the fibres of a paper support"
 
   - id: "2.7"
     label: "**Fig. 7**"
     src: figures/frame/fig-7-frame.jpg
     caption: "*Sky Study, Sunset* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified paint sample viewed in cross-section showing blue then purple paint layers above the fibres of a paper support"
 
   - id: "2.8"
     label: "**Fig. 8**"
     src: figures/frame/fig-8-frame.jpg
     caption: "*At Hampstead Looking towards Harrow* magnified paint sample viewed in cross-section showing: 2. pale pink ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified paint sample viewed in cross-section showing a dark blue paint layer above a pale pink paint layer"
 
   - id: "2.9"
     label: "**Fig. 9**"
     src: figures/frame/fig-9-frame.jpg
     caption: "*At Hampstead Looking towards Harrow* detail and micrographs showing two small pinholes along the bottom edge of the original support of *At Hampstead* where it meets a strip added later to the composition. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified pin holes in a landscape sketch"
 
   - id: "2.10"
     label: "**Fig. 10**"
     src: figures/frame/fig-10-frame.jpg
     caption: "*Sky Study with a Shaft of Sunlight* raking light detail showing three pinholes across the top edge, and a circular indentation around the central pinhole indicative of a pushpin. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Adele Wright and Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified pin hole with a circular indentation surrounding it in the top edge of a skyscape sketch"
 
   - id: "2.11"
     label: "**Fig. 11**"
     src: figures/frame/fig-11-frame.jpg
     caption: "*Sky Study, Sunset* digitally combined raking light details showing a faint circular indentation reminiscent of that made by the outer edges of a pushpin. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A black and white digitally enhanced image showing a circular indentation in the paper support of a skyscape sketch"
 
   - id: "2.12"
     label: "**Fig. 12**"
     src: figures/frame/fig-12-frame.jpg
     caption: "*Sky Study, Sunset* micrograph of a squashed impasto. Fitzwilliam Museum, CambridgePD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "A magnified image of an impasto yellow brushstroke that has been flattened on top"
 
   - id: "2.13"
     label: "**Fig. 13**"
     src: figures/frame/fig-13-frame.jpg
     caption: "*Sky Study with a Shaft of Sunlight* micrograph of a squashed impasto. Fitzwilliam Museum, Cambridge PD.222-1961.Digital image courtesy of Adele Wright, Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified impasto white paint on a blue background that has been flattened"
 
   - id: "2.14"
     label: "**Fig. 14**"
     src: figures/frame/fig-14-frame.jpg
     caption: "*Sky Study with Mauve Clouds* ca.1821-22. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified brushstrokes on an oil paint sketch showing a dried lump of paint caught within the brushmarks"
 
   - id: "2.15"
     label: "**Fig. 15**"
     src: figures/frame/fig-15-frame.jpg
     caption: "*Sky Study, Sunset* ca.1821-22. Fitzwilliam Museum, Cambridge PD.7-1961). Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "The corner of an oil sketch on paper magnified showing two red smudges of paint over the sketch"
 
   - id: "2.16"
     label: "**Fig. 16**"
     src: figures/frame/fig-16-frame.jpg
     caption: "*At Hampstead Looking towards Harrow* micrograph showing wood fibres and dried paint caught in the paint layers. Fitzwilliam Museum, CambridgePD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified white brushstrokes on a blue background and wood fibres and dried paint caught in the brushstrokes"
 
   - id: "2.17"
     label: "**Fig. 17**"
     src: figures/frame/fig-17-frame.jpg
     caption: "Different kinds of size were applied to mocked-up laminated paper supports composed from a variety of papers."
     credit: 
+    alt: "A hand holding a brush to a sheet of paper"
 
   - id: "2.18"
     label: "**Fig. 18**"
     src: figures/frame/fig-18-frame.jpg
     caption: "Paint for the ground layer was prepared with various combinations of pigments and mediums and was applied by brush to the laminated paper mock-ups."
     credit: 
+    alt: "A hand holding a brush delivering pink-coloured paint to a sheet of paper"
 
   - id: "2.19"
     label: "**Fig. 19**"
     src: figures/frame/fig-19-frame.jpg
     caption: "Using the same pigment mixture in the same medium, different effects resulted in ground layers depending on the support to which the paint was applied."
     credit: 
+    alt: "Two rectangles of blue paint on white paper; the left-hand rectangle has lots of brushmarks"
 
   - id: "2.20"
     label: "**Fig. 20**"
     src: figures/frame/fig-20-frame.jpg
     caption: "*Sky Study, Sunset* X-radiograph showing no visible brushmarks in the ground layer. Fitzwilliam Museum, CambridgePD.7-1961. Digital image courtesy of Chris Titmus, Hamilton Kerr Institute."
     credit: 
+    alt: "A black and white x-ray image of a skyscape sketch in oils on paper that looks like white brushstrokes on a black background"
 
   - id: "2.21"
     label: "**Fig. 21**"
     src: figures/frame/fig-21-frame.jpg
     caption: "John Constable, *Cloud Study: Stratocumulus Cloud* X-radiograph showing streaky brushmarks in the ground layer, oil on paper laid on board, 24.8 x 30.2 cm. Yale Center for British Art, New Haven B1981.25.155. Digital image courtesy of Yale Center for British Art."
     credit: 
+    alt: "A black and white x-ray image of a skyscape sketch; vertical brushy marks cover the image"
 
   - id: "2.22"
     label: "**Fig. 22**"
     src: figures/frame/fig-22-frame.jpg
     caption: "*Sky Study with Mauve Clouds* micrograph showing the blue ground layer visible through interstices in the opaque paint layer caused by the retention of brushmarks. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified thin but textured brushmarks in yellow paint over a blue background"
 
   - id: "2.23"
     label: "**Fig. 23**"
     src: figures/frame/fig-23-frame.jpg
     caption: "John Constable, *Sky Study with a Shaft of Sunlight* micrograph showing the blue ground layer visible through interstices in the opaque paint layer caused by the retention of brushmarks and a fingerprint. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Adele Wright, Hamilton Kerr Institute."
     credit: 
+    alt: "Magnified thin but textured brushmarks in pink paint over a blue background and a fingerprint mark"
 
   - id: "vid1"
     poster: figures/frame/video-1-still.jpg
@@ -292,6 +314,7 @@ figure_list:
     label: "Video 1"
     caption: "The pre-coloured grounds, particularly the blue grounds, made it possible to sketch quickly enough to capture the cloudscapes before they changed substantially."
     credit: 
+    alt: "Viewed from behind, a person sketching clouds outside with paint on paper resting in the lid of a box on their knee"
 
   - id: "vid2"
     poster: figures/frame/video-2-still.jpg
@@ -300,6 +323,7 @@ figure_list:
     label: "Video 2"
     caption: "The luminosity and depth of the sky was challenging to represent in paint."
     credit: 
+    alt: "A person sketching clouds outside with paint on paper; the clouds can be seen changing in front of them"
 
   - id: "vid3"
     poster: figures/frame/video-3-still.jpg
@@ -308,6 +332,7 @@ figure_list:
     label: "Video 3"
     caption: "A pause to mix colours was long enough for the skyscape to change completely. "
     credit: 
+    alt: "A person sketching clouds outside with paint on paper and pausing to mix colours on a palette"
 
   - id: "vid4"
     poster: figures/frame/video-4-still.jpg
@@ -316,6 +341,7 @@ figure_list:
     label: "Video 4"
     caption: "Attempting to get the right shade of the sky's blue, or of the shadow beneath a bank of cloud on the horizon, meant rushing to capture the rest of the clouds after they had already disappeared."
     credit: 
+    alt: "A person quickly sketching clouds outside with paint on paper while the clouds in front of them change faster than they sketch"
 
   - id: "vid5"
     poster: figures/frame/video-5-still.jpg
@@ -329,91 +355,109 @@ figure_list:
     label: "**Fig. 1**"
     src: figures/kargére/fig-1-kargère_et_al.jpg
     caption: "Tomb of Ermengol X, Count of Urgell, ca. 1300-1350, Catalan. Limestone, traces of paint; 89 x 79 1/2 x 35 in. (226.1 x 201.9 x 88.9 cm). The Cloisters Collection, New York, 1928: 28.95a-xx."
+    alt: "Tomb sculpture of a recumbent man holding a sword celebrated by rows of mourners behind him, over a sarcophagus with figures of Christ and apostles. The ensemble is carved in limestone with polychromy."
 
   - id: "3.2"
     label: "**Fig. 2**"
     src: figures/kargére/fig-2-kargère_et_al.jpg
     caption: "Double Tomb of Don Àlvar Rodrigo de Cabrera, Count of Urgell, and His Wife Cecília of Foix, ca. 1300-1350, Catalan. Limestone, traces of paint; a: 19 x 82 7/8 x 28 1/4 in. (48.3 x 210.5 x 71.8 cm); b: 21 x 74 3/4 x 26 in. (53.3 x 189.9 x 66.0 cm); c: 16 x 74 x 29 in. (40.6 x 188.0 x 73.7 cm); d: 24 3/4 x 66 3/8 x 24 3/4 in. (62.9 x 168.6 x 62.9 cm). The Cloisters Collection, 1948: 48.140.1a-d."
+    alt: "Two stacked tomb effigies of a female and male figure, husband and wife, each lying over a sarcophagus with coat of arms. The ensemble is carved in limestone with polychromy."
 
   - id: "3.3"
     label: "**Fig. 3**"
     src: figures/kargére/fig-3-kargère_et_al.jpg
     caption: "Sepulchral Monument of Àlvar de Cabrera Dressed in Military Armor, ca. 1300-1350, Catalan. Limestone, 51 1/4 x 82 5/8 x 26 1/2 in. (130.2 x 209.9 x 67.3 cm). The Cloisters Collection, 1948: 48.140.2a-d."
+    alt: "Tomb sculpture of knight dressed in full armor with hands crossed over his chest, over a sarcophagus with coat of arms. The ensemble is carved in limestone with polychromy."
 
   - id: "3.4"
     label: "**Fig. 4**"
     src: figures/kargére/fig-4-kargère_et_al.jpg
     caption: "Tomb Effigy of a Boy, Probably Ermengol IX, Count of Urgell, first half 14th century, from the church of Santa Maria de Castelló de Farfanya, Spain. Limestone, traces of paint; 15 3/8 x 33 7/8 x 15 1/4 in. (39 x 86 x 38.7 cm), The Cloisters Collection, 1975: 1975.129."
+    alt: "Tomb effigy of a boy with hands crossed over his chest, and a dog at his feet. The ensemble is carved in limestone with polychromy."
 
   - id: "3.5"
     label: "**Fig. 5**"
     src: figures/kargére/fig-5-kargère_et_al.jpg
     caption: "Interior of the church at the monastery of Santa Maria Bellpuig de Les Avellanes with modern stone caskets visible in the niches to left and right of presbytery. Ramon Solé"
+    alt: "Interior of a gothic church with modern stone caskets in the niches to the left and right of the presbytery."
 
   - id: "3.6"
     label: "**Fig. 6**"
     src: figures/kargére/fig-6-kargère_et_al.jpg
     caption: "Original south wing of the cloister, Santa Maria Bellpuig de Les Avellanes, late 12th-early 13th century. Ramon Solé."
+    alt: "Cloister with stone arches supported by double columns and capitals decorated with bas-relief flowers or foliage, with carved tooth friezes on abaci."
 
   - id: "3.7a"
     label: "**Fig. 7a**"
     src: figures/kargére/fig-7-kargère_et_al.jpg
     caption: "Northwest doorway at Bellpuig de Las Avellanas. Ramon Solé."
+    alt: "Stone gothic doorway with slightly pointed archivolts, at top of a short stairway. The door is framed by a series of small, engaged columns in groups of three, topped by capitals with coat of arms, as well as foliate and animal motifs."
 
   - id: "3.7b"
     label: "**Fig. 7b**"
     src: figures/kargére/fig-7.2-kargère_et_al.jpg
     caption: "Detail of right doorjamb of northwest portal of monastery of Bellpuig de Les Avellanes, with modern stone replacement on bottom. Lucretia Kargère."
+    alt: "Modern stone replacements on the bottom archway jambs of the stone gothic doorway."
 
   - id: "3.8"
     label: "**Fig. 8**"
     src: figures/kargére/fig-8-kargère_et_al.jpg
     caption: "Detail of northwest portal, with Count of Urgell's coat of arms at left, flowering hill at center, and small head bracketing doorway at right. Ramon Solé."
+    alt: "Series of stone capitals with coat of arms, foliate motifs, a flowering hill, and a small head bracketing the gothic doorway on the right."
 
   - id: "3.9"
     label: "**Fig. 9**"
     src: figures/kargére/fig-9-kargère_et_al.jpg
     caption: "Detail of northwest portal, with lion rampant at left, intertwined dove at center, and Count of Urgell's coat of arms at right. Ramon Solé."
+    alt: "Series of stone capitals with a lion rampant, an intertwined dove and a shield with coat of arms."
 
   - id: "3.10"
     label: "**Fig. 10**"
     src: figures/kargére/fig-10-kargère_et_al.jpg
     caption: "Photograph from 1906 of the tomb effigy of Àlvar de Cabrera dressed in military armor, identified at the time as Ermengol X. Monastery of Bellpuig de Les Avellanes."
+    alt: "Black and white archival photograph of the tomb sculpture of a knight dressed in full armor framed by heavy pilasters, a pointed trilobed cusped arch with composite moldings, and a quatrefoil oculus."
 
   - id: "3.11"
     label: "**Fig. 11**"
     src: figures/kargére/fig-11-kargère_et_al.jpg
     caption: "Detail of toolmarks and stonemason mark on walls of the niche once housing tomb effigy of Ermengol X. Lucretia Kargère."
+    alt: "Parallel chisel marks and a stonemason mark shaped as a crossed-out inverted V, possibly an A or a compass, on the wall of the church."
 
   - id: "3.12"
     label: "**Fig. 12**"
     src: figures/kargére/fig-12-kargère_et_al.jpg
     caption: "Reverse of tomb effigy of Cecília of Foix, with original diagonal toolmarks made by a chisel. Met Cloisters Library and Archives."
+    alt: "Black and white archival photograph of the backside of the female stone effigy with diagonal chisel marks."
 
   - id: "3.13"
     label: "**Fig. 13**"
     src: figures/kargére/fig-13-kargère_et_al.jpg
     caption: "Locations of quarries 1 and 2 of this study in relation to monastery of Les Avellanes. The inset shows the front of quarry 1, where the samples were collected, with its stratigraphic column. GRAPAC-CETEC."
+    alt: "Google earth view of grounds surrounding the monastery of Les Avellanes with locations of two quarries marked with red dots. Graphic inset to the upper left showing the stratigraphic geological column of one quarry."
 
   - id: "3.14"
     label: "**Fig. 14**"
     src: figures/kargére/fig-14-kargère_et_al.jpg
     caption: "A. Micrograph of sample A1 collected from the tomb of Ermengol VII, taken with crossed nicols at 10x. B. Backscattered electron (BSE) image of sample A1 collected with scanning electron microscope, showing abundant carbonate fraction and a few scattered silicates grains (dark gray). Bright iron oxides (FeOx) and a large apatite grain (Apt) are also visible. The Metropolitan Museum of Art."
+    alt: "Two thin-sections of stone samples taken from tomb effigy of Ermengol VII showing abundant carbonate fraction and few scattered silicates grains in dark grey. Bright iron oxides (FeOx) and a large apatite grain (Apt) are also visible."
 
   - id: "3.15"
     label: "**Fig. 15**"
     src: figures/kargére/fig-15-kargère_et_al.jpg
     caption: "Sarcophagus of Ermengol IX with lions, from the parish church of Santa Maria in Castelló de Farfanya, first half 14th century . Limestone, traces of paint; sarcophagus: 13 x 33 1/16 x 15¾ in. (33 x 84 x 40 cm); lions (each) 7 7/8 x 18 11/16 x 11 in. (20 x 47.5 x 28 cm). Museu de la Noguera: 1488 and 607."
+    alt: "Polychrome stone sarcophagus of a small tomb with shields depicting the checkered coat of arms of the counts of Urgell. The empty sarcophagus is supported by two lions."
 
   - id: "3.16"
     label: "**Fig. 16**"
     src: figures/kargére/fig-16-kargère_et_al.jpg
     caption: "The tomb of Àlvar de Cabrera at the Demotte gallery, with an arch of unknown present location, photographed ca. 1910–34. Fonds des Archives photographiques des antiquaires Demotte, Musée du Louvre, Paris: 2961."
+    alt: "Black and white archival photograph of the tomb in full armor in an antique dealers' atelier. The effigy is displayed under a free-standing stone arch with scalloped edges and small carved shields along its borders."
 
   - id: "3.17"
     label: "**Fig. 17**"
     src: figures/kargére/fig-17-kargère_et_al.jpg
     caption: "Detail of polychromy on Ermengol X. Azurite blue is visible on bottom of architectural window, under thick lime overpaint layer. The Metropolitan Museum of Art."
+    alt: "Carved miniature stone window in gothic style, covered by a thick modern layer of grey lime, except for a small area of azurite blue appearing under the overpaint on the bottom right."
 
   - id: "4.1"
     label: "**Fig. 1**"
