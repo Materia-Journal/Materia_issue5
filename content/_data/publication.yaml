@@ -13,14 +13,21 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
+<<<<<<< Updated upstream
 title: New Deal Photography
 subtitle: The Works of Dorothea Lange and Walker Evans
 reading_line:
 short_title:
 
+=======
+title: Materia
+subtitle: "Journal of Technical Art History"
+reading_line: "Vol. 1, Issue 3"
+short_title: Materia
+>>>>>>> Stashed changes
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+   one_line: "Materia: Journal of Technical Art History is an online, open-access platform devoted to the technical study of art objects."
+   full: "Materia: Journal of Technical Art History is an online, open-access platform devoted to the technical study of art objects. Bringing together the disciplines of conservation, conservation science, art history, and related fields, Materia is among the first peer-reviewed publications dedicated solely to this steadily growing field of interdisciplinary research."
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -34,10 +41,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Materia
     location: Los Angeles
-    url:
-    logo: logo-getty.png
+    url: https://https://materiajournal.com
+    logo: materia-logo.jpg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -196,7 +203,7 @@ subject:
     name: PHOTOGRAPHY / Subjects & Themes / Historical
     identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: art-history, technical art history, conservation, material culture
 
 # ------------------------------------------------------------------------------
 # Revision History

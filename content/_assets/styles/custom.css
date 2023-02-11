@@ -1,0 +1,34 @@
+/* .quire-cover__hero-body {
+    display: flex;
+} */
+
+.hero-body .container.is-fluid {
+    background: none;
+}
+
+
+/* Cover Title */
+.quire-cover__hero .title {
+    font-family: "Orgreave", sans-serif;
+    font-size: 5.5rem;
+    font-weight: 400;
+    line-height: 0.8;
+    margin-bottom: 0;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transform: scaleY(1.1);
+}
+
+.quire-cover__hero .subtitle {
+  font-size: 1.4rem;
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: 0.125rem;
+  margin: 0;
+}
+
+.quire-cover .reading-line {
+  font-size: 3.25rem;
+  font-family: "Orgreave", sans-serif;
+  margin-top: 4rem;
+}
