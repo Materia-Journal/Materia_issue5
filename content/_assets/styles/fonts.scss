@@ -153,3 +153,28 @@ $assets-dir: "/_assets/" !default;
   font-weight: 700;
   font-style: italic;
 }
+////
+// Orgreave
+// Orgreave regular
+@font-face {
+  font-family: "Orgreave";
+  src: font("orgreave/Orgreave.eot");
+  src: font("orgreave/Orgreaveeot?#iefix") format("embedded-opentype"),
+       font("orgreave/Orgreave.woff2") format("woff2"),
+       font("orgreave/Orgreave.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+////
+// Roboto Condensed
+// Orgreave regular
+@font-face {
+  font-family: "Roboto Condensed";
+  src: font("roboto-condensed/RobotoCondensed-regular.eot");
+  src: font("roboto-condensed/RobotoCondensed-regulareot?#iefix") format("embedded-opentype"),
+       font("roboto-condensed/RobotoCondensed-regular.woff2") format("woff2"),
+       font("roboto-condensed/RobotoCondensed-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
