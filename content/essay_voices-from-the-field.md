@@ -213,25 +213,17 @@ I agree with Nicholas that any publication that has technical information in the
 
 [^8]: Peter N. Miller and Soon Kai Poh, *Conserving Active Matter* (New York, Bard Graduate Center, 2022).
 
-[^9]: See, for example: Joelle D. J. Wickens & Anisha Gupta, “Leadership: the Act of Making Way for Others,” *Studies in Conservation, 67:sup1* (2022): 319-325, DOI: [[10.1080/00393630.2022.2065956]{.ul}](https://doi.org/10.1080/00393630.2022.2065956). In this article Joelle Wickens and Anisha Gupta discuss white supremacy in relation to conservation with an informative framework defined by Tema Okun which lists fifteen attitudes and behaviors of White Supremacy Culture, how they manifest and how they maintain power. See also: Kendall Francis, “The absence of black and ethnic minority representation in UK heritage conservation and the value of including diverse voices,” *Journal of the Institute of Conservation,* 44:3, (2021): 183-196, DOI: [[10.1080/19455224.2021.1974066]{.ul}](https://doi.org/10.1080/19455224.2021.1974066). In this article I discuss White Dominant Culture in relation to academic environments, homogeneous decision making in conservation and the barriers this causes accessing cultural heritage.
+[^9]: See, for example: Joelle D. J. Wickens & Anisha Gupta, “Leadership: the Act of Making Way for Others,” *Studies in Conservation, 67:sup1* (2022): 319-325, DOI: [https://doi.org/10.1080/00393630.2022.2065956]{.ul}. In this article Joelle Wickens and Anisha Gupta discuss white supremacy in relation to conservation with an informative framework defined by Tema Okun which lists fifteen attitudes and behaviors of White Supremacy Culture, how they manifest and how they maintain power. See also: Kendall Francis, “The absence of black and ethnic minority representation in UK heritage conservation and the value of including diverse voices,” *Journal of the Institute of Conservation,* 44:3, (2021): 183-196, DOI: [https://doi.org/10.1080/19455224.2021.1974066]{.ul}. In this article I discuss White Dominant Culture in relation to academic environments, homogeneous decision making in conservation and the barriers this causes accessing cultural heritage.
 
 [^10]: See: Jane Henderson, “Beyond lifetimes: who do we exclude when we keep things for the future?,” *Journal of the Institute of Conservation,* 43:3 (2020): 195-212
 
-[^11]: Examples include the Masters in Technical Art History at the University of Glasgow ([[https://www.gla.ac.uk/postgraduate/taught/technical-art-history/]{.ul}](https://www.gla.ac.uk/postgraduate/taught/technical-art-history/) accessed: 28 November 2022), and the University of Amsterdam ([[https://www.uva.nl/en/programmes/masters/conservation-and-restoration-of-cultural-heritage/study-programme/technical-art-history/technical-art-history.html?cb]{.ul}](https://www.uva.nl/en/programmes/masters/conservation-and-restoration-of-cultural-heritage/study-programme/technical-art-history/technical-art-history.html?cb) accessed 28 November 2022). See also: Ian McClure and Carol Snow, “Teaching Technical Art History at the Yale University Art Gallery,” *Yale University Art Gallery Bulletin*, *Teaching with Art* (2013): 72-81.
+[^11]: Examples include the Masters in Technical Art History at the University of Glasgow [https://www.gla.ac.uk/postgraduate/taught/technical-art-history/]{.ul} (accessed: 28 November 2022), and the University of Amsterdam [https://www.uva.nl/en/programmes/masters/conservation-and-restoration-of-cultural-heritage/study-programme/technical-art-history/technical-art-history.html?cb]{.ul} (accessed 28 November 2022). See also: Ian McClure and Carol Snow, “Teaching Technical Art History at the Yale University Art Gallery,” *Yale University Art Gallery Bulletin*, *Teaching with Art* (2013): 72-81.
 
-[^12]: Both artists’ websites contain many images of their works. See: [[samhodge.com]{.ul}](http://samhodge.com/) (accessed: 29 November 2022) for additional examples of Hodge’s work and her engagement with materiality. In Shonibare’s practice, his use of “African” wax print fabric is a metaphor for colonial relationships between Africa and Europe, and the materiality of the fabric embodies complex layers of meaning. See: [[yinkashonibare.com/]{.ul}](https://yinkashonibare.com/)(accessed: 29 November 2022).
+[^12]: Both artists’ websites contain many images of their works. See: [http://samhodge.com]{.ul} (accessed: 29 November 2022) for additional examples of Hodge’s work and her engagement with materiality. In Shonibare’s practice, his use of “African” wax print fabric is a metaphor for colonial relationships between Africa and Europe, and the materiality of the fabric embodies complex layers of meaning. See: [yinkashonibare.com/]{.ul}(accessed: 29 November 2022).
 
-[^13]: Gerry Alabone and Emma Slocombe, “The Knole Cartoon gallery,” *Arts, Buildings,*
+[^13]: Gerry Alabone and Emma Slocombe, “The Knole Cartoon gallery,” *Arts, Buildings,Collections Bulletin* (Summer, 2017): 9-12. [https://nt.global.ssl.fastly.net/documents/abc-bulletin-summer-2017.pdf]{.ul}
 
-    *Collections Bulletin* (Summer, 2017): 9-12. [https://nt.global.ssl.fastly.net/documents/abc-bulletin-]{.ul}
-
-    [summer-2017.pdf]{.ul}
-
-[^14]: Gerry Alabone and Olivia Stoddart, “Thomas Sackville’s hall of fame: displaced,
-
-    reinvented and preserved at Knole,” *Royal Society Notes and Records Journal*, vol. 76,
-
-    no. 2 (2022): 243-272.  [[https://royalsocietypublishing.org/doi/full/10.1098/rsnr.2021.0044]{.ul}](https://royalsocietypublishing.org/doi/full/10.1098/rsnr.2021.0044)
+[^14]: Gerry Alabone and Olivia Stoddart, “Thomas Sackville’s hall of fame: displaced, reinvented and preserved at Knole,” *Royal Society Notes and Records Journal*, vol. 76, no. 2 (2022): 243-272. [https://royalsocietypublishing.org/doi/full/10.1098/rsnr.2021.0044]{.ul}
 
 [^15]: Gunnar Heydenreich, *Lucas Cranach the Elder: Painting Materials, Techniques and Workshop Practice* (Amsterdam University Press, 2007).
 
@@ -241,7 +233,7 @@ I agree with Nicholas that any publication that has technical information in the
 
 [^18]: See footnote 7.
 
-[^19]: [[https://www.akbild.ac.at/en/institutes/conservation-restoration/events/lectures-events/2022/best-available-copy-3-the-preservation-of-time-based-media-art-again-and-again-and-again]{.ul}](https://www.akbild.ac.at/en/institutes/conservation-restoration/events/lectures-events/2022/best-available-copy-3-the-preservation-of-time-based-media-art-again-and-again-and-again); [[https://fdrubio.ucsd.edu/research]{.ul}](https://fdrubio.ucsd.edu/research);
+[^19]: [https://www.akbild.ac.at/en/institutes/conservation-restoration/events/lectures-events/2022/best-available-copy-3-the-preservation-of-time-based-media-art-again-and-again-and-again]{.ul}; [https://fdrubio.ucsd.edu/research]{.ul};
 
 [^20]: See for example: David Bomford, John Leighton, Jo Kirby and Ashok Roy,. *Art in the Making: Impressionism* (London, National Gallery, in association with Yale University Press, 1990).
 
@@ -253,12 +245,12 @@ I agree with Nicholas that any publication that has technical information in the
 
 [^24]: ​​Mary Kisler and Catherine Hammond, *Frances Hodgkins: European Journeys*, exh. cat. (Auckland, Auckland University Press, 2019).
 
-[^25]: See: <https://arts.unimelb.edu.au/about/arts-west-gallery/current-exhibition> accessed: 28 November 2022.
+[^25]: See: [https://arts.unimelb.edu.au/about/arts-west-gallery/current-exhibition]{.ul} accessed: 28 November 2022.
 
 [^26]: Michael Yonan, “Materiality as Periphery,”, *Visual Resources*, vol. 35, no. 3-4 (2019): 200-216.
 
 [^27]: Ibid.
 
-[^28]: See: [[https://paxtonhouse.co.uk/mahogany-and-slavery/]{.ul}](https://paxtonhouse.co.uk/mahogany-and-slavery/) accessed: 29 November 2022.
+[^28]: See: [https://paxtonhouse.co.uk/mahogany-and-slavery/]{.ul}] accessed: 29 November 2022.
 
 {% endbackmatter %}
