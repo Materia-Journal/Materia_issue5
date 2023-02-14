@@ -617,7 +617,7 @@ figure_list:
 
   - id: "4.25"
     label: "**Fig. 25**"
-    src: figures/sabouni/fig-1-sabouni_et_al.gif
+    src: figures/sabouni/fig-25-sabouni_et_al.gif
     caption: "Detail image showing the paper-based metal threads, highlighted in red from the front of Panel 2."
     alt: "Magnified view of a complex weave pattern including paper wefts, which are highlighted in blinking red for emphasis"
 
