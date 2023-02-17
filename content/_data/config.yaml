@@ -1,7 +1,7 @@
 analytics:
   googleId: ''
 
-bylineFormat: name-title # name | name-title | false
+bylineFormat: name # name | name-title | false
 
 bibliography:
   displayOnPage: true

@@ -42,7 +42,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: 
 
 contributor:
 
@@ -100,9 +100,9 @@ contributor:
     type: primary
     first_name: Antje
     last_name: Bosselmann-Ruickbie
-    title: Professor of Geological Science
-    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
-    bio: "Antje Bosselmann-Ruickbie studied art history and archaeology at Bonn University, Germany. Her MA focused on style and techniques of Byzantine architecture, and her PhD thesis on Byzantine jewellery won her two academic awards (*Byzantinischer Schmuck des 9. bis frühen 13. Jahrhunderts*, Wiesbaden: Reichert, 2011). Antje has been assistant professor at Mainz University and is currently at Gießen University, at the Institute of Art History. She is a fellow of the Royal Historical Society and an associate member of the Leibniz Science Campus Mainz/Frankfurt: Byzantium between Orient and Occident. Her research was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Fund), Deutscher Akademischer Austauschdienst (DAAD, Germany Academic Exchange Service), Gerda Henkel Foundation, Dumbarton Oaks Research Library and Collection, and others. Currently, Antje is working on a book project focusing on the object biography of the silver casket in Trier within the context of cultural entanglements in the Mediterranean and beyond. She has published extensively on Byzantine jewellery, goldsmiths’ works and enamels, on aspects of cultural entanglement in the Middle Ages, on Byzantine magic, and on the Middle Ages in popular culture, especially in Heavy Metal music."
+    title: Assistant Professor of Art History
+    affiliation: Justus Liebig University Gießen, Institute of Art History, Germany
+    bio:
     url:
     image:
 
@@ -192,8 +192,8 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / Subjects & Themes / Conservation & Preservation
+    identifer: ART056000
   - type: keywords
     name: art-history, technical art history, conservation, material culture
 

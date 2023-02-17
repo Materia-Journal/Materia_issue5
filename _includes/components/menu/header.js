@@ -35,10 +35,6 @@ module.exports = function(eleventyConfig) {
             ${siteTitle()}
           </h4>
         ${homePageLinkCloseTag}
-
-        <div class="quire-menu__header__contributors">
-          ${contributorElement}
-        </div>
       </header>
     `
   }

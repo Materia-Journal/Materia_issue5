@@ -6,11 +6,29 @@ layout: essay
 order: 33
 class: page-one
 contributor:
-  - id: lkargère
-  - id: rsolé
-  - id: fcaró
-  - id: jlprada
-  - id: nguasch-ferré
+  # - id: lkargère
+  # - id: rsolé
+  # - id: fcaró
+  # - id: jlprada
+  # - id: nguasch-ferré
+
+
+  - first_name: Lucretia
+    last_name: Kargère
+    sort_as: "1"
+  - first_name: Ramon
+    last_name: Solé
+    sort_as: "3"
+  - first_name: Federico
+    last_name: Caró
+    sort_as: "2"
+  - first_name: José Luis
+    last_name: Prada
+    sort_as: "4"
+  - first_name: Núria
+    last_name: Guasch-Ferré
+    sort_as: "5"
+
 abstract: |
   Many questions still linger regarding the fourteenth-century tombs of the Counts of Urgell at The Cloisters (28.95; 48.140.1; 48.140.2).  The turbulent history of the Catalan Monastery of Santa Maria de Bellpuig de Les Avellanes, with which the tombs are associated, has made it difficult to ascertain whether the museum’s installation is a mélange of different medieval elements assembled for purposes of display, or if the sculptural components are truly part of a single pantheon.  This study explores the affiliation of the tombs to Les Avellanes in the early fourteenth century through interdisciplinary research between field specialists in Catalonia and museum conservators and scientists at the Metropolitan Museum.  To build evidence, the effigies of stone and polychromy were analyzed at the Cloisters, local archaeological examination and petrographic analysis of the building’s fabric was performed at Les Avellanes, and historical quarries were located through archival and field research.
 ---
