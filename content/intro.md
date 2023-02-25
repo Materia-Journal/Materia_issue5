@@ -24,5 +24,20 @@ To conclude this issue, the *Materia* editorial team have put together a special
 As always, we would like to extend our thanks to the brilliant scholars who submitted their articles to this issue of *Materia*. Through your contributions our journal continues to grow and inspire new research within our field, creating a dynamic platform where diverse voices can gather and exchange ideas. Thank you also to our hard-working copy editor, Mary Cason, whose continued support is greatly appreciated by our editorial team.             
  
 
-Wishing you all enjoyable reading 
+Wishing you all enjoyable reading,
 The *Materia* Team
+
+
+
+
+Anouk Jonker
+Bianca Garcia
+‍Courtney Books
+‍Cynthia Prieur
+‍Emma Jansson
+‍Julie Ribits
+‍LaStarsha McGarity
+‍Lucia Bay
+‍Morgan Wylder
+‍Roxane Sperber
+‍Sophie Lamb

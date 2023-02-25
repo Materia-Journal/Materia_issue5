@@ -139,11 +139,13 @@ The utilization of the same stone for the tombs and their architectural setting,
 
 ---
  
-# Author Bios
+## Author Bios
 
 Lucretia Kargère is a Conservator at the Metropolitan Museum of Art and the Cloisters, New York; Ramon Solé is a Conservator-Restorer, adjunct to the Centre de Restauració de Béns Mobles de Catalunya, Barcelona; Federico Caró is a Research Scientist at the Metropolitan Museum of Art; José Luis Prada is Professor of Geological Science at the Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya; Núria Guasch-Ferré is at the Departament d’Arts i Conservació Restauració, Facultat de Belles Arts, Universitat de Barcelona.
 
 {% backmatter %}
+
+## **NOTES**
 
 [^1]: James Rorimer, “A Fourteenth Century Catalan Tomb at the Cloisters and Related Monuments,” *Art Bulletin* 13, no. 4 (Dec. 1931): 409–37; Timothy Husband, “‘Sancti Nicolai de fontibus amoenis’ or ‘Sti. Nicolai et Fontium Amenorum’: The Making of Monastic History,” in *The Cloisters: Studies in Honor of the Fiftieth Anniversary*, ed. E. C. Parker (New York: Metropolitan Museum of Art, 1992), 354–83; Gener Gonzalvo i Bou, *Història del panteó dels comtes d’Urgell: Els sepulcres del monestir de Bellpuig de les Avellanes* (Lleida: Universitat de Lleida, 2007); Francesca Español i Bertran, “El panteó dels comtes d’Urgell al monestir de Bellpuig de les Avellanes,” in *L’art gòtic a Catalunya: Escultura I. La configuració de l’estil* (Barcelona: Pladevall Font, 2007), 80–87; Francesc Fité i Llevot, “El Monestir premonstratés de Santa Maria de Bellpuig de les Avellanes, panteó comtal,” in *De Bellpuig a Bellpuig Els premonstratesos, de les Avellanes a Artà*, Miscel.lània 13 (Palma: Departament de Cultura i Patrimoni, 2019), 47–99.
 

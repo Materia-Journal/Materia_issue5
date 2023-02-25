@@ -193,11 +193,14 @@ As the imagery is difficult to interpret due to the reticulated and darkened coa
 
 Through microscopic examination and a range of analyses, the materials and techniques used to make the VMFA’s Initiation Crown were more fully characterized. The crown is composed of five panels sewn together at their bases onto a strip of multicolored silk and metal thread brocade fabric. The crown was found to be constructed from a substrate of layered cotton fabric adhered together with a proteinaceous adhesive, over which a thin ground layer made from yellow ochre and clay was applied and smoothed. Fine ink underdrawings were added on top of the ground and *kyungbur* decoration made from the same material as the ground was piped over the underdrawing to create a raised design. Areas were then blocked out in *mtshal* (vermillion) and *ba bla* (orpiment) to prepare for gilding and painting. Areas painted with orpiment were gilded with *gser shog* (gold leaf) using a mordant. Fine details were then painted in *li khri* (minium), *bod mthing* (azurite), *bod ljang* (malachite), *zi hung* (pale mauve) pigments, and detailed with *snag tsha* (black ink). Lastly, the front of the panels were varnished with a coating material made up of a drying oil and natural resin. Severe degradation of this coating over the copper-based pigments as well as the overall reticulation and darkening of the coating have worked together to obscure much of the imagery. Digital recoloration combined with creative mounting techniques will allow visitors to the museum and scholars to view the object as it may have once appeared. Treatment is ongoing to stabilize the panels for display, and mounts will be created in consultation with the Curator and Mount Maker to safely display the panels upright in a configuration similar to how it would have been worn.
 
----
+## Acknowledgements
+
+The authors are grateful to Dr. John Henry Rice, E. Rhodes and Leona B. Carpenter, Curator of South Asian and Islamic Art at VMFA for their support of this research, contributions to the discussion on terminology, and review of the paper. This research was primarily carried out within The Susan and David Goode Center for Advanced Study in Art Conservation at the VMFA and many thanks go to Interim Chief Conservator Debbie Linn and the conservation staff for their assistance and support. Particular thanks go to Samantha Sheesley, Senior Conservator and Head of Paper Conservation for assistance with paper fiber identification and to Meredith Watson, Assistant Conservator of Paintings and the Paul Mellon Collection, and Josh Summer, Louise B. and J. Harwood Cochrane Assistant Conservator of Paintings for their help with understanding the darkening phenomenon in the coating. The authors are also indebted to Patty Silence, Director of Conservation Operations at the Colonial Williamsburg Foundation, for supporting our collaboration and permitting the use of instrumentation in the Colonial Williamsburg Materials Analysis Lab.
+
 
 {% backmatter %}
 
-# Bibliography
+### Bibliography
 
 Atler, Marion, Laurent Binet, Nadia Touati, Nadège Lubin-Germain, Anne-Solenn Le Hô, François Mirambet and Didier Gourier. “Photochemical Origin of the Darkening of Copper Acetate and Resinate Pigments in Historical Paintings.” *Inorganic Chemistry,* no. 58 (2019): 13115-13128.
 
@@ -254,12 +257,6 @@ Rice, John Henry and Jeffrey S. Durham. *Awaken: A Tibetan Buddhist Journey Towa
 Stoddard, Heather. "Early Tibetan Paintings: Sources and Styles (Eleventh-Fourteenth Centuries A.D.)." *Archives of Asian Art* 49 (1996): 26-50.
 
 Von Rospatt, Alexander. “Vajracharya Crowns and Diadems.” In *Awaken: A Tibetan Buddhist Journey Toward Enlightenment*, 171-179. New Haven, CT: Yale University Press, 2019.
-
----
-
-### Acknowledgements
-
-The authors are grateful to Dr. John Henry Rice, E. Rhodes and Leona B. Carpenter, Curator of South Asian and Islamic Art at VMFA for their support of this research, contributions to the discussion on terminology, and review of the paper. This research was primarily carried out within The Susan and David Goode Center for Advanced Study in Art Conservation at the VMFA and many thanks go to Interim Chief Conservator Debbie Linn and the conservation staff for their assistance and support. Particular thanks go to Samantha Sheesley, Senior Conservator and Head of Paper Conservation for assistance with paper fiber identification and to Meredith Watson, Assistant Conservator of Paintings and the Paul Mellon Collection, and Josh Summer, Louise B. and J. Harwood Cochrane Assistant Conservator of Paintings for their help with understanding the darkening phenomenon in the coating. The authors are also indebted to Patty Silence, Director of Conservation Operations at the Colonial Williamsburg Foundation, for supporting our collaboration and permitting the use of instrumentation in the Colonial Williamsburg Materials Analysis Lab.
 
 ---
 
