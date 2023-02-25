@@ -48,7 +48,7 @@ In preparation for re-creating Constable’s skying process, which is described 
 
 {% figuregroup '2', '2.1, 2.2, 2.3, 2.4' %}
 
-The four sketches have the appearance of having been painted rapidly and in one sitting with a stiff brush. The sky scenes are executed in one lean paint layer directly on top of a coloured ground without any discernible preparatory drawing, and in all the studies the sky and clouds are painted thinly with impasto limited to the final highlights, which are applied last of all. The clouds have been worked up wet-in-wet and are painted thinly, but opaquely. Mixtures appear to have been rapidly created on the palette, creating a marbled effect in some areas. In other areas whites, blues, pinks, and yellows have been applied in thin scumbles with colours dragged over one another and minimal blending to create masses of clouds. *At Hampstead* differs from the other studies in that it includes a narrow strip of landscape, but the landscape also appears to have been worked up roughly concurrently with the sky—the sky paint overlaps the horizon in some areas and the horizon has been reinforced over the sky in others. The prepared coloured grounds do much of the work towards the final effect; the ground is left to show between passages and broken brushstrokes*,* and the blue ground serves to provide much of the background sky in *Sunset*. Where covered by paint, the ground still shows through in many areas since the paint has a very particular texture that retains the brushstrokes and is thin enough to remain transparent where bristles have left furrows in the paint; this is particularly the case for *Mauve Clouds*, on which there is extensive use of these brush-marked layers.
+The four sketches have the appearance of having been painted rapidly and in one sitting with a stiff brush. The sky scenes are executed in one lean paint layer directly on top of a coloured ground without any discernible preparatory drawing, and in all the studies the sky and clouds are painted thinly with impasto limited to the final highlights, which are applied last of all. The clouds have been worked up wet-in-wet and are painted thinly, but opaquely. Mixtures appear to have been rapidly created on the palette, creating a marbled effect in some areas. In other areas whites, blues, pinks, and yellows have been applied in thin scumbles with colours dragged over one another and minimal blending to create masses of clouds. *At Hampstead* differs from the other studies in that it includes a narrow strip of landscape, but the landscape also appears to have been worked up roughly concurrently with the sky—the sky paint overlaps the horizon in some areas and the horizon has been reinforced over the sky in others. The prepared coloured grounds do much of the work towards the final effect; the ground is left to show between passages and broken brushstrokes, and the blue ground serves to provide much of the background sky in *Sunset*. Where covered by paint, the ground still shows through in many areas since the paint has a very particular texture that retains the brushstrokes and is thin enough to remain transparent where bristles have left furrows in the paint; this is particularly the case for *Mauve Clouds*, on which there is extensive use of these brush-marked layers.
 
 The studies examined survive in good condition with no adhesion issues in paint layers, or even any discernible craquelure. There are, however, creases and restored tears in the supports. Excluding *Shaft of Sunlight*, the studies’ original supports are difficult to assess as the reverses are covered by non-original secondary supports. *At Hampstead*’s support has been laid into a wooden tray while the supports of *Sunset* and *Mauve Clouds* are laid down on paper.[^58] A centimetre-wide strip has been added along the bottom edge of *At Hampstead*, corresponding to the green area of the foreground landscape, at a later point than the sketch’s execution.
 
@@ -157,9 +157,7 @@ Beckett, Ronald Brymer. *John Constable’s Correspondence*. Vol. 1, *The Family
 
 Bower, Peter. *Turner’s Papers: A Study of the Manufacture, Selection and Use of His Drawing Papers, 1787–1820*. London: Tate Gallery, 1990.
 
-———. *A Brush with Nature: An Historical and Technical Analysis of the Papers and Boards Used as Supports for Landscape Oil Sketching*. Works of Art on Paper: Books,
-
-Documents, and Photographs: Techniques and Conservation 16. London: International Institute for Conservation of Historic and Artistic Works, 2002.
+———. *A Brush with Nature: An Historical and Technical Analysis of the Papers and Boards Used as Supports for Landscape Oil Sketching*. Works of Art on Paper: Books, Documents, and Photographs: Techniques and Conservation 16. London: International Institute for Conservation of Historic and Artistic Works, 2002.
 
 ———. “Careful and Considered Choice: Thomas Jones’s Use of Paper.” In *Thomas Jones (1742–1803): An Artist Rediscovered,* edited by Ann Sumner and Greg Smith, 101–7. New Haven, CT: Yale University Press, 2003.
 
@@ -215,7 +213,7 @@ Luijten, Ger. “Skies and Effects.” In *True to Nature: Open-Air Painting in 
 
 Lyles, Anne. “‘That immense canopy’: Studies of Sky and Cloud by British Artists, c. 1770–1860.” In *Constable’s Clouds: Paintings and Cloud Studies by John Constable*, edited by Edward Morris, 135–50. Edinburgh: National Galleries Scotland and National Museums and Galleries on Merseyside, 2000.
 
-Lyles, Anne. “‘The glorious pageantry of heaven’: An Assessment of the Motives behind Constable’s ‘Skying.’” In *Constable's Skies*, edited by Frederic Bancroft, 29–56. New York: Salander-O’Reilly Galleries, 2004.
+———. “‘The glorious pageantry of heaven’: An Assessment of the Motives behind Constable’s ‘Skying.’” In *Constable's Skies*, edited by Frederic Bancroft, 29–56. New York: Salander-O’Reilly Galleries, 2004.
 
 Massoul, M. Constant de. *A treatise of the art of painting and the composition of colours containing instructions for all the various processes of painting; together with observations upon the qualities and ingredients of colours*. *Translated from the French of M. Constant de Massoul.* London: printed by the author, 1797.
 
@@ -233,7 +231,7 @@ Parris, Leslie, Ian Fleming-Williams, and Conal Shields, eds. *John Constable: F
 
 Phillips, Adam. Introduction to Marion Milner, *The Hands of the Living God*, xviii–xxxv*.* 1969. New York: Routledge, 2011.
 
-Phillips, Adam. *Attention Seeking.* London: Penguin Random House, 2019.
+———. *Attention Seeking.* London: Penguin Random House, 2019.
 
 Piles, Roger de. *The Principles of Painting*. *Translated “by a painter.”* London: J. Osborn, 1743.
 
@@ -256,6 +254,8 @@ Spuybroek, Lars. “Abstraction and Sympathy.” In *The Sympathy of Things: Rus
 Thornes, John E. “Constable’s Meteorological Understanding and His Painting of Skies.” In *Constable’s Clouds: Paintings and Cloud Studies by John Constable*, edited by Edward Morris, 151–60. Edinburgh: National Galleries Scotland and National Museums and Galleries on Merseyside, 2000.
 
 van Loon, Annelies, Petra Noble, and Aviva Burnstock. “Ageing and Deterioration of Traditional Oil and Tempera Paints.” In *Conservation of Easel Paintings*, edited by Joyce Hill Stoner and Rebecca Rushfield, 214–41. London: Routledge, 2012.
+
+## Notes
 
 [^1]: For an account of early landscapes made from direct observation, see Robert Felfe, “*Naer het leven*: Between Image-Generating Techniques and Aesthetic Mediation,” in *Ad Vivum? Visual Materials and the Vocabulary of Life-Likeness in Europe before 1800,* ed. Thomas Balfe, Joanna Woodall, and Clause Zittel (Boston: Brill, 2019), 58–59. For the growing momentum of outdoor sketching in eighteenth- and nineteenth-century Europe, see Asher Ethan Miller, “The Path of Nature: French Paintings from the Wheelock Whitney Collection 1785–1850,” *Metropolitan Museum of Art Bulletin* 70, no. 3 (Winter 2013): 8.
 
