@@ -101,7 +101,7 @@ It is hoped that the collaborative approach demonstrated through this case study
 
 ---
 
-**Author bio**
+## **AUTHOR BIO**
 
 Antje Bosselmann-Ruickbie studied art history and archaeology at Bonn University, Germany. Her MA focused on style and techniques of Byzantine architecture, and her PhD thesis on Byzantine jewellery won her two academic awards (*Byzantinischer Schmuck des 9. bis frühen 13. Jahrhunderts*, Wiesbaden: Reichert, 2011). Antje has been assistant professor at Mainz University and is currently at Gießen University, at the Institute of Art History. She is a fellow of the Royal Historical Society and an associate member of the Leibniz Science Campus Mainz/Frankfurt: Byzantium between Orient and Occident. Her research was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Fund), Deutscher Akademischer Austauschdienst (DAAD, Germany Academic Exchange Service), Gerda Henkel Foundation, Dumbarton Oaks Research Library and Collection, and others. Currently, Antje is working on a book project focusing on the object biography of the silver casket in Trier within the context of cultural entanglements in the Mediterranean and beyond. She has published extensively on Byzantine jewellery, goldsmiths’ works and enamels, on aspects of cultural entanglement in the Middle Ages, on Byzantine magic, and on the Middle Ages in popular culture, especially in Heavy Metal music.
 
@@ -110,7 +110,7 @@ Antje Bosselmann-Ruickbie studied art history and archaeology at Bonn University
 
 {% backmatter %}
 
-## Bibliography
+### **BIBLIOGRAPHY**
 
 Ahn, Jürgen von, and Kirstin Mannhardt, eds. *Trier—Sakrale Schätze: Kostbarkeiten aus 1500 Jahren: Ein Auswahlkatalog / Sacred Treasures: Precious Pieces of 1500 Years: A Selection*. Petersberg: Michael Imhof Verlag, 2020.
 
@@ -204,91 +204,7 @@ Ströbele, Florian, Sonngard Hartmann, and Susanne Greiff. “Untersuchungen an 
 
 Stürner, Wolfgang. *Friedrich II.* 2 vols. Darmstadt: Wissenschaftliche Buchgesellschaft, 2003.
 
-## Illustrations
-
-![](media/image6.png){width="6.298611111111111in" height="6.385416666666667in"}
-
-**Fig. 1** Trier casket, Sicily, mid-12th to early 13th century. Silver, gilded on the exterior, l. 11 13/16 in. (30 cm), w. 9 1/16 in. (23 cm), h. overall 9 1/16 in. (23 cm), h. including feet 9 9/16 in. (24.2 cm). Treasury of the Cathedral Saint Peter, Trier, inv. no. 17. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image16.png){width="6.298611111111111in" height="4.0152777777777775in"}
-
-**Fig. 2** Trier casket, front. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image20.png){width="6.298611111111111in" height="4.988888888888889in"}
-
-**Fig. 3** Trier casket, top. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image21.png){width="6.298611111111111in" height="6.709027777777778in"}
-
-**Fig. 4** Trier casket, detail of front. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image15.jpg){width="6.298611111111111in" height="4.483333333333333in"}
-
-**Fig. 5** Trier casket, detail of front. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image18.jpg){width="6.298611111111111in" height="5.69375in"}
-
-**Fig. 6** Trier casket, detail of large medallion on front (length of detail photograph c. 1 3/16 in. \[3 cm\]). Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image17.png){width="6.298611111111111in" height="4.545138888888889in"}
-
-**Fig. 7** Trier casket, bottom plate. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image19.png){width="6.298611111111111in" height="5.280555555555556in"}
-
-**Fig. 8** Trier casket, detail of bottom plate. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image3.jpg){width="5.675264654418198in" height="7.424148075240595in"}
-
-**Fig. 9** Trier casket, interior. The white arrow indicates where the outer, narrower layer of the frame has pushed through the inner layer. Photo: Sabine Steidl, Römisch-Germanisches Zentralmuseum Mainz.
-
-![](media/image7.png){width="5.588886701662292in" height="7.451643700787401in"}
-
-**Fig. 10** Trier casket, lion sphinx, detail of metal fitting behind the lion crowning the peg. Height c. 1.5 cm. Photo: Antje Bosselmann-Ruickbie.
-
-![](media/image4.jpg){width="6.298611111111111in" height="7.9944444444444445in"}
-
-**Fig. 11** *Heiltumsblatt*, showing the relics of Trier, *Designatio Sacratissimarum* *quarundam Reliquiarum*, Cologne, 1655. Etching, 21 11/16 x 15 9/16 in. (55 x 39.5 cm). Bibliothek des Bischöflichen Priesterseminars Trier.
-
-![](media/image5.jpg){width="4.888888888888889in" height="6.430555555555555in"}
-
-**Fig. 12** *Heiltumsblatt*, detail showing the Trier casket.
-
-![](media/image8.jpg){width="8.397916666666667in" height="6.298611111111111in"}
-
-**Fig. 13** Cappella Palatina, Palermo, 1140s. Eastern soffit of the arcades on the north side of the central nave. Photo: Antje Bosselmann-Ruickbie.
-
-![](media/image10.jpg){width="6.133182414698163in" height="5.354581146106737in"}
-
-**Fig. 14** Capella Palatina, Palermo. Muquarnas ceiling, detail. Photo: Tiziana Gulotta (https://maremostum.wordpress.com/2015/05/30/discovering-the-arab-soul-of-sicily/).
-
-![](media/image9.jpg){width="6.298611111111111in" height="5.032638888888889in"}
-
-**Fig. 15** Siculo-Arabic ivory casket, mid-12th century. Ivory, painted with gold, brown, and vermilion red, 4 7/16 x 3 3/8 x 2 15/16 in. (11.2 x 8.5 x 7.5 cm). Benaki Museum Athens, inv. no. 10637. From Knipp, *Siculo-Arabic Ivories*, 323, fig. 6b.
-
-![](media/image13.png){width="3.016928040244969in" height="2.908584864391951in"}
-
-**Fig. 16** Siculo-Arabic ivory casket, detail. From Knipp, *Siculo-Arabic Ivories*, 323, fig. 6b.
-
-![](media/image11.jpg){width="6.298611111111111in" height="2.5770833333333334in"}
-
-**Fig. 17** Ceremonial sword of Emperor Frederick II with scabbard, before 1220, Palermo. L. of sword 42¾ in. (108.5 cm), l. of scabbard 36 7/16 in. (92.5 cm). Kunsthistorisches Museum Wien, inv. no. Schatzkammer, WS XIII 16 (www.khm.at/de/object/03022a216b/-).
-
-![](media/image14.jpg){width="6.298611111111111in" height="4.382638888888889in"}
-
-**Fig. 18** Detail of the ceremonial sword of Emperor Frederick II with scabbard with vermicular filigree. Photo: Antje Bosselmann-Ruickbie.
-
-![](media/image2.jpg){width="6.627777777777778in" height="6.298611111111111in"}
-
-**Fig. 19** *Cingulum* (belt), probably belonging to the coronation vestments of King Roger II (crowned 1133/34), detail of a belt fitting. Gold, granulation, and filigree. Kunsthistorisches Museum Vienna, inv. no. Schatzkammer, WS XIII 10. From Maria Andaloro, ed., *Nobiles Officinae: Perle, filigrane e trame di seta dal Palazzo Reale di Palermo*, exh. cat. (Catania: G. Maimone, 2006), vol. 1, no. I.7.
-
-![](media/image12.jpg){width="6.298611111111111in" height="4.348611111111111in"}
-
-**Fig. 20** Cappella Palatina Palermo, Muquarnas ceiling, detail with confronted birds, before 1154. Photo: Natursicilia (https://it.wikipedia.org/wiki/File:Pernici_bizantine_2.jpg, CC BY-SA 3.0).
-
-![](media/image1.jpg){width="3.0635498687664042in" height="2.505698818897638in"}
-
-**Fig. 21** Detail of a Fatimid “box-shaped” earring, 10th–11th century. Gold, with filigree and granulation. Benaki Museum Athens, inv. no. 1863. Photo: Antje Bosselmann-Ruickbie.
+### **NOTES**
 
 [^1]: The most recent catalogue of the Cathedral Treasury in Trier is Jürgen von Ahn and Kirstin Mannhardt, eds., *Trier—Sakrale Schätze: Kostbarkeiten aus 1500 Jahren; Ein Auswahlkatalog / Sacred Treasures: Precious Pieces of 1500 Years; A Selection* (Petersberg: Michael Imhof Verlag, 2020), 20–21 (no. 15, illustration on pp.20-21).
 

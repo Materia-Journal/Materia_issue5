@@ -131,7 +131,7 @@ Accordingly, attention and pleasure have been this article’s subject and its m
 
 ---
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to warmly thank Adèle Wright and Spike Bucklow (University of Cambridge) for feedback on drafts; Sarah Cove for very helpful advice on reconstructions and information about Constable’s materials; Richard Farleigh (University of Cambridge) for his kind advice on examining the Fitzwilliam Museum sky sketches; Chris Titmus for advice on photography and for taking X-radiographs; Lucy Wrapson and Iris Buisman (University of Cambridge) for conducting the SEM-EDX analysis on cross-section samples; Nicholas Robbins (University College London) for useful suggestions; and Jane Munro and colleagues at the Fitzwilliam Museum for allowing me to examine the sky sketches from the collection. I am also very grateful to the *Materia* editorial team and two anonymous reviewers for their feedback on this article.
 
