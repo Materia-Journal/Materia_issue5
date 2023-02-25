@@ -149,21 +149,21 @@ figure_list:
   - id: "2.1"
     label: "**Fig. 1**"
     src: figures/frame/fig-1-frame.jpg
-    caption: Attrib. John Constable, *Sky Study, Sunset*, ca.1821-22, oil on paper laid on paper, 14.5 x 23.0 cm. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: "Attrib. John Constable, *Sky Study, Sunset*, ca.1821-22, oil on paper laid on paper, 14.5 x 23.0 cm. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
     alt: "A sketch in oils on paper of a skyscape at sunset, with dark blue clouds and red-orange sunset over a pale blue background."
 
   - id: "2.2"
     label: "**Fig. 2**"
     src: figures/frame/fig-2-frame.jpg
-    caption: Attrib. John Constable, *Sky Study with Mauve Clouds*, ca.1821-22, oil on paper laid on paper, 14.2 x 22.2 cm. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: "Attrib. John Constable, *Sky Study with Mauve Clouds*, ca.1821-22, oil on paper laid on paper, 14.2 x 22.2 cm. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
     alt: "A sketch in oils on paper of mauve-coloured clouds over a pale blue sky"
 
   - id: "2.3"
     label: "**Fig. 3**"
     src: figures/frame/fig-3-frame.jpg
-    caption: Attrib. John Constable, *At Hampstead Looking towards Harrow*, ca.1821-22, oil on paper laid on wooden panel, 16.5 x 23.4 cm. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
+    caption: "Attrib. John Constable, *At Hampstead Looking towards Harrow*, ca.1821-22, oil on paper laid on wooden panel, 16.5 x 23.4 cm. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute and Fitzwilliam Museum."
     credit: 
     alt: "A landscape sketch in oils on paper with most of the picture devoted to a stormy sky and a strip of silhouetted trees"
 
@@ -184,14 +184,14 @@ figure_list:
   - id: "2.6"
     label: "**Fig. 6**"
     src: figures/frame/fig-6-frame.jpg
-    caption: "*Sky Study withMauve Clouds* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study with Mauve Clouds* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. pale blue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "A magnified paint sample viewed in cross-section showing blue then pale pink paint layers above the fibres of a paper support"
 
   - id: "2.7"
     label: "**Fig. 7**"
     src: figures/frame/fig-7-frame.jpg
-    caption: "*Sky Study, Sunset* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. paleblue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* magnified paint sample viewed in cross-section showing: 1. fibres of paper support; 2. pale blue ground layer; 3. thin paint layer applied wet-in-wet onto the dry ground layer. Fitzwilliam Museum PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "A magnified paint sample viewed in cross-section showing blue then purple paint layers above the fibres of a paper support"
 
@@ -226,35 +226,35 @@ figure_list:
   - id: "2.12"
     label: "**Fig. 12**"
     src: figures/frame/fig-12-frame.jpg
-    caption: "*Sky Study, Sunset* micrograph of a squashed impasto. Fitzwilliam Museum, CambridgePD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* micrograph of a squashed impasto. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "A magnified image of an impasto yellow brushstroke that has been flattened on top"
 
   - id: "2.13"
     label: "**Fig. 13**"
     src: figures/frame/fig-13-frame.jpg
-    caption: "*Sky Study with a Shaft of Sunlight* micrograph of a squashed impasto. Fitzwilliam Museum, Cambridge PD.222-1961.Digital image courtesy of Adele Wright, Hamilton Kerr Institute."
+    caption: "*Sky Study with a Shaft of Sunlight* micrograph of a squashed impasto. Fitzwilliam Museum, Cambridge PD.222-1961. Digital image courtesy of Adele Wright, Hamilton Kerr Institute."
     credit: 
     alt: "Magnified impasto white paint on a blue background that has been flattened"
 
   - id: "2.14"
     label: "**Fig. 14**"
     src: figures/frame/fig-14-frame.jpg
-    caption: "*Sky Study with Mauve Clouds* ca.1821-22. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study with Mauve Clouds* micrograph showing a fragment of a dried paint caught in the paint layer. Fitzwilliam Museum, Cambridge PD.8-1951. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "Magnified brushstrokes on an oil paint sketch showing a dried lump of paint caught within the brushmarks"
 
   - id: "2.15"
     label: "**Fig. 15**"
     src: figures/frame/fig-15-frame.jpg
-    caption: "*Sky Study, Sunset* ca.1821-22. Fitzwilliam Museum, Cambridge PD.7-1961). Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* micrograph showing seemingly accidental red paint applied at the time of execution of the sketch in the bottom right corner. Fitzwilliam Museum, Cambridge PD.7-1961). Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "The corner of an oil sketch on paper magnified showing two red smudges of paint over the sketch"
 
   - id: "2.16"
     label: "**Fig. 16**"
     src: figures/frame/fig-16-frame.jpg
-    caption: "*At Hampstead Looking towards Harrow* micrograph showing wood fibres and dried paint caught in the paint layers. Fitzwilliam Museum, CambridgePD79-1959. Digital image courtesy of Hamilton Kerr Institute."
+    caption: "*At Hampstead Looking towards Harrow* micrograph showing wood fibres and dried paint caught in the paint layers. Fitzwilliam Museum, Cambridge PD79-1959. Digital image courtesy of Hamilton Kerr Institute."
     credit: 
     alt: "Magnified white brushstrokes on a blue background and wood fibres and dried paint caught in the brushstrokes"
 
@@ -282,7 +282,7 @@ figure_list:
   - id: "2.20"
     label: "**Fig. 20**"
     src: figures/frame/fig-20-frame.jpg
-    caption: "*Sky Study, Sunset* X-radiograph showing no visible brushmarks in the ground layer. Fitzwilliam Museum, CambridgePD.7-1961. Digital image courtesy of Chris Titmus, Hamilton Kerr Institute."
+    caption: "*Sky Study, Sunset* X-radiograph showing no visible brushmarks in the ground layer. Fitzwilliam Museum, Cambridge PD.7-1961. Digital image courtesy of Chris Titmus, Hamilton Kerr Institute."
     credit: 
     alt: "A black and white x-ray image of a skyscape sketch in oils on paper that looks like white brushstrokes on a black background"
 
@@ -317,7 +317,7 @@ figure_list:
     poster: figures/frame/video-1-still.jpg
     media_id: QlVJRCraC0E
     media_type: youtube
-    label: "Video 1"
+    label: "Video 2"
     caption: "The pre-coloured grounds, particularly the blue grounds, made it possible to sketch quickly enough to capture the cloudscapes before they changed substantially."
     credit: 
     alt: "Viewed from behind, a person sketching clouds outside with paint on paper resting in the lid of a box on their knee"
@@ -326,7 +326,7 @@ figure_list:
     poster: figures/frame/video-2-still.jpg
     media_id: sk2fdVEL4g4
     media_type: youtube
-    label: "Video 2"
+    label: "Video 3"
     caption: "The luminosity and depth of the sky was challenging to represent in paint."
     credit: 
     alt: "A person sketching clouds outside with paint on paper; the clouds can be seen changing in front of them"
@@ -335,7 +335,7 @@ figure_list:
     poster: figures/frame/video-3-still.jpg
     media_id: iZQBdYGllgA
     media_type: youtube
-    label: "Video 3"
+    label: "Video 4"
     caption: "A pause to mix colours was long enough for the skyscape to change completely. "
     credit: 
     alt: "A person sketching clouds outside with paint on paper and pausing to mix colours on a palette"
@@ -344,7 +344,7 @@ figure_list:
     poster: figures/frame/video-4-still.jpg
     media_id: iBTc7UU9Oio
     media_type: youtube
-    label: "Video 4"
+    label: "Video 5"
     caption: "Attempting to get the right shade of the sky's blue, or of the shadow beneath a bank of cloud on the horizon, meant rushing to capture the rest of the clouds after they had already disappeared."
     credit: 
     alt: "A person quickly sketching clouds outside with paint on paper while the clouds in front of them change faster than they sketch"
@@ -353,7 +353,7 @@ figure_list:
     poster: figures/frame/video-5-still.jpg
     media_id: qaO9EWSHNzQ
     media_type: youtube
-    label: "Video 5"
+    label: "Video 1"
     caption: "This compilation of stop-motion videos shows author Rowan Frame 'skying' in the style of John Constable, both in the studio and outdoors."
     credit: 
 
