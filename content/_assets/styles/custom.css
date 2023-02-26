@@ -1,16 +1,11 @@
-/* .quire-cover__hero-body {
-    display: flex;
-} */
-
 .hero-body .container.is-fluid {
     background: none;
 }
 
-
 /* Cover Title */
 .quire-cover__hero .title {
     font-family: "Orgreave", sans-serif;
-    font-size: 5.5rem;
+    font-size: 3.5rem;
     font-weight: 400;
     line-height: 0.8;
     margin-bottom: 0;
@@ -20,7 +15,7 @@
 }
 
 .quire-cover__hero .subtitle {
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-family: "Roboto Condensed", sans-serif;
   letter-spacing: 0.125rem;
   margin: 0;
@@ -29,5 +24,28 @@
 .quire-cover .reading-line {
   font-size: 3.25rem;
   font-family: "Orgreave", sans-serif;
+  margin-top: 2rem;
+}
+
+@media (min-width: 768px) {
+
+.hero-body .container.is-fluid {
+    margin-left: 30vw;
+    bottom: 20%;
+}
+
+.quire-cover__hero .title {
+  font-size: 5.5rem;  
+  letter-spacing: 2px;
+}
+
+.quire-cover__hero .subtitle {
+  font-size: 1.4rem;
+}
+
+.quire-cover .reading-line {
+  font-size: 2.25rem;
   margin-top: 4rem;
+}
+
 }
