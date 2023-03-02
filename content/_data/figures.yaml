@@ -468,7 +468,7 @@ figure_list:
   - id: "4.1"
     label: "**Fig. 1**"
     src: figures/sabouni/fig-1-sabouni_et_al.jpg
-    caption: "Unknown Artist, likely Tibet,*Five-Panel Initiation Crown*, possibly 18th century. Cotton, ground, gold leaf, paint, and silk. Before Treatment. 16 x 30 x 1 in. Virginia Museum of Fine Arts: Bequest from the estate of Mary Shepherd Slusser (2018.112)."
+    caption: "Unknown Artist, likely Tibet, *Five-Panel Initiation Crown*, possibly 18th century. Cotton, ground, gold leaf, paint, and silk. Before Treatment. 16 x 30 x 1 in. Virginia Museum of Fine Arts: Bequest from the estate of Mary Shepherd Slusser (2018.112)."
     alt: "Five pointed-keystone shaped panels with frayed textile at their bases adhered in an arc to a beige board with a black frame."
 
   - id: "4.2"
@@ -600,7 +600,7 @@ figure_list:
   - id: "4.22"
     label: "**Fig. 22**"
     src: figures/sabouni/fig-22-sabouni_et_al.jpg
-    caption: "Detail of the line surrounding the central figure (panel?) showing the innermost line of purple/pink paint. Imaged with a digital camera through a Dermlite DL4 with 10x magnification and subsequently cropped and enlarged."
+    caption: "Detail of the line surrounding the central figure (panel5) showing the innermost line of purple/pink paint. Imaged with a digital camera through a Dermlite DL4 with 10x magnification and subsequently cropped and enlarged."
     alt: "Close up view of the lines surrounding the central figure on a panel showing a pink line at the interior."
 
   - id: "4.23"
@@ -679,7 +679,7 @@ figure_list:
   - id: "5.7"
     label: 
     src: figures/interviews/bio-5.jpg
-    caption: "Kendall Frances"
+    caption: "Kendall Francis"
 
   - id: "5.8"
     label: 
