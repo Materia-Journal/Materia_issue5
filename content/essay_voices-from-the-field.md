@@ -18,27 +18,27 @@ For this premier edition of our article series we asked a group of six academics
 
 ## Interviewees
 
-{% figure '5-6', 'is-pulled-left' %} 
+{% figure '5.6', 'is-pulled-left' %} 
 
 **Gerry Alabone** is Senior Conservator (furniture & frames) with the National Trust. After studying fine art (painting) at Bath, he was employed in the bespoke frame making trade and public galleries before studying conservation (wood & metals) at London Guildhall University. He was Lead Frames Conservator at the City of London’s Guildhall Art Gallery, Head of Frames Conservation at Tate, and Chair of ICON’s Gilding & Decorative Surfaces Group. Gerry is also a frames and wood conservation lecturer on the graduate programme at the City & Guilds of London Art School. His research concentrates on how we understand, manage, and communicate interrelations between settings, frames and paintings. In 2016 he convened the first international conference on the auricular style, *Auricular Style: Frames*, at the Wallace Collection. His current history of art MRes at the University of Birmingham is *Leatherwork: English carved and gilded oak picture frames.*
 
-{% figure '5-5', 'is-pulled-left' %}
+{% figure '5.5', 'is-pulled-left' %}
 
 **Dr. Nicholas Eastaugh** originally trained as a physicist before going on to study conservation and art history at the Courtauld Institute of Art, London, where he completed a PhD in scientific analysis and documentary research of historical pigments in 1988. Since 1989 he has been a consultant in the scientific and art technological study of paint and paintings. A frequent lecturer, he was an Honorary Visiting Research Fellow at the University of Oxford 2003-2017. In 1999 he co-founded the Pigmentum Project, an interdisciplinary research group developing comprehensive high-quality documentary and analytical data on historical pigments and other artists’ materials. This led to the publication of the Pigment Compendium in 2004, which quickly became a standard reference text in the field. Dr Eastaugh founded Art Analysis & Research in 2009. He recently left to start a new venture, Dr Nicholas Eastaugh Associates Ltd. His current interests lie at the intersection of material art and art history, and the application of new technologies to these.
 
-{% figure '5-7', 'is-pulled-left' %}
+{% figure '5.7', 'is-pulled-left' %}
 
 **Kendall Francis** is currently a Painting Conservation Intern at the J. Paul Getty Museum and was previously a Conservation Fellow at the National Gallery, London. She received a PGDIP in easel painting conservation from The Courtauld Institute of Art and has completed internships in museums and private studios across the UK and Europe. Kendall completed her postgraduate thesis on the materials and techniques of Willem Van de Velde the Younger with the National Maritime Museum, London, and her research also includes technical studies into Anthony van Dyck and Joaquín Sorolla. Kendall is currently undertaking a long-term personal research project looking into the legacies of colonialism, slavery, and exploitation in artists’ materials. Kendall is also enthusiastic about advancing accessibility, diversity, and inclusion in art heritage for disadvantaged young people and Black & Ethnic minorities. She has recently published an article on the absence of Black and Ethnic Minority representation in UK heritage conservation and she additionally participates in heritage D&I committees, including conservation engagement and outreach initiatives.
 
-{% figure '5-3', 'is-pulled-left' %}
+{% figure '5.3', 'is-pulled-left' %}
 
 **Anisha Gupta** is a paper and preventive conservator. After holding positions at the Fine Arts Museums of San Francisco and the American Philosophical Society Library & Museum, she returned to graduate school to pursue her PhD in Preservation Studies at the University of Delaware. Her research is focused on examining legacies of colonialism in conservation, particularly their effect on preservation value systems. She will be looking specifically at how preservation value systems from different cultures can be incorporated into conservation practice.
 
-{% figure '5-8', 'is-pulled-left' %}
+{% figure '5.8', 'is-pulled-left' %}
 
 **Prof. Ann-Sophie Lehmann** holds the chair of art history and material culture at the University of Groningen. Her research develops a process-based approach to art and visual material culture, focusing on materials and tools as part of creative processes, the mediatization of making, and material literacy. From 2020-2025 she leads the research project *Curious Hands. Moving Making to the Core of Education* funded by the Dutch Research Council. Lehmann is editor-in-chief of the series *Studies in Art and Materiality* (Brill) and member of the editorial boards of the *Netherlands Yearbook for History of Art* and *Zeitschrift fur Kunstgeschichte*. She co-curated the exhibitions *Object Lessons. The Story of Material Education in 8 Chapters* (Museum der Dinge, Berlin / Kunstgewerbemuseum Winterthur 2016-2017), *Well-Made. Ode to the Process of Production* (Kunsthal, Amerfoort 2017) and *The Story of My Life. Object-Biography as Concept, Method and Genre* (Museum der Dinge, Berlin, 2023).
 
-{% figure '5-4', 'is-pulled-left' %}
+{% figure '5.4', 'is-pulled-left' %}
 
 **Catherine Nunn** is an independent painting conservator in Australia and she is also completing a PhD in Conservation and Art History at the University of Melbourne. Her doctoral research focuses on materiality and Australian artists in France in the late nineteenth and early twentieth centuries. She has published in conservation journals and exhibition catalogues, and lectured for the Masters program at the Grimwade Centre, University of Melbourne. Previously, she worked as a painting conservator at the Victoria and Albert Museum, the Auckland Art Gallery and in private conservation studios in London on Old Master paintings. Originally trained in conservation at the University of Canberra (1998), she also completed an advanced internship at the Hamilton Kerr Institute, University of Cambridge (2003-2005), and a MA (by research, Melbourne, 2011).
 
@@ -136,7 +136,7 @@ Anyone who engages in broadening the field knows that it is time-consuming, need
 
 There are many contemporary artists who engage with the material aspects of their work, for example the work of printmaker (and conservator) Sam Hodge (Figs. 1 and 2), and as seen in the artwork *The American Library (Activists)* by *Yinka Shonibare*.[^13] I think discussion of these contemporary artists’ engagement with materiality would be a useful vector for elevating the concept of materiality in art historical study.
 
-{% figuregroup '2', '5-1, 5-2' %}
+{% figuregroup '2', '5.1, 5.2' %}
 
 **Q4: Can you give some recent inspiring examples where technical art history has been successfully integrated as part of a broader art historical research project? Feel free to use examples from your own institution/research.**
 
