@@ -9,6 +9,8 @@ contributor:
   - id: rframe
 abstract: |
   Attention, and the role it might have played in the sky-sketching practice of the British artist John Constable, is the focus of this article. After outlining what is known about Constable’s practice as a result of analytical investigations, the article documents an experiential approach to investigating his materials and methods. It recounts an attempt to reconstruct those intangible values such as pleasure and attention that may have been inherent in the practice of sky sketching. In doing so, it aims to demonstrate the extent to which it is possible to discuss the “materiality” of attention, which may be pertinent when considering artworks produced in, and inspired by, an age that put such value on the senses, feeling, and emotion.
+
+  *This article has been approved for publication by peer review. 
 ---
 {% figure 'vid5' %} 
 

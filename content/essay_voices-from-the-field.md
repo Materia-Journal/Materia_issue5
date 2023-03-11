@@ -7,8 +7,7 @@ order: 35
 class: page-one
 # contributor:
 #   - id: jkeller
-abstract: |
-  The aim of this interview-style article is to gather together different perspectives from various voices related to the field of technical art history. The questions will center around defining what technical art history is and what it can offer in terms of art historical enquiry. Each contributor will be asked to answer questions 1-4 on their own, after which they will be given the opportunity to reflect on each other’s answers in question 5 (all of the answers will be compiled and sent back to the participants for final review). The article will then feature as an editorial in an upcoming issue of *Materia.*
+
 ---
 
 Here at *Materia* we are always interested in encouraging discussion and debate on the topic of technical art history as an academic field. As recent contributions to our journal have shown,[^1] there remains much scope for dialogue surrounding issues such as how we define the discipline, as well as how it fits within the context of art historical inquiry more broadly. With this aim in mind, the editorial team at *Materia* has decided to launch an article series entitled *Voices from the Field,* where we invite contributors from different scholarly backgrounds to reflect on the field of technical art history today.
