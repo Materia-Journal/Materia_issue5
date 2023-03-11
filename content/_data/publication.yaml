@@ -30,7 +30,7 @@ language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
 identifier:
-  isbn:
+  issn: 2769-6723
 
 publisher:
   - name: Materia

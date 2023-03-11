@@ -6,8 +6,11 @@ order: 31
 class: page-one
 contributor:
   - id: abosselmann-ruickbie
+
 abstract: |
   The Cathedral Treasury in Trier, Germany, houses a medieval silver-gilt casket that very likely has been in the collection at least since 1429. High-quality ornaments in filigree and granulation decorate its corpus and lid, while the bottom plate is densely chased with elegant medallions, scrolls and fabulous creatures. In the absence of figurative and epigraphic elements, research has struggled to determine the casket’s provenance and date. To investigate its origin, it was thus essential to complement art historical approaches with analyses of the material composition and goldsmithing techniques. These were conducted at the Leibniz-Forschungsinstitut für Archäologie Mainz (LEIZA) within a research project funded by the Gerda Henkel Stiftung Düsseldorf. As a result, not only the integrity of the object, which had been questioned in the past, was verified, but also observations on particular technical elements added important arguments to determine the provenance of the silver casket. The Fatimid tradition of applying line granulation in grooves between two parallel wires in combination with comparisons of shape, style, and ornaments point to Sicily in the mid-twelfth to early thirteenth centuries. The casket was most likely produced in the Nobiles Officinae, the royal workshops at Palermo that blossomed under the Norman and Hohenstaufen rule, and appears to be the only survivor of its kind. This case study aims to demonstrate the potential of technical art history when it comes to the medium of goldsmiths’ works, which have been relatively understudied using this perspective to date.
+
+  *This article has been approved for publication by peer review.
 ---
 
 
