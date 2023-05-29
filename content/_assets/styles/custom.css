@@ -61,3 +61,11 @@ justify-content: center;
     bottom: 20%;
 }
 }
+
+.quire-menu__list svg {
+  width: 1.25em;
+  height: 1.25em;
+  margin-left: .5em;
+  vertical-align: text-top;
+  fill: black;
+}

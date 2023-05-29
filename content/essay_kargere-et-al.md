@@ -4,6 +4,7 @@ title: The Counts of Urgell and the Monastery of Les Avellanes
 subtitle: Archaeological Evidence and Material Analysis of a Building and Its Monuments
 layout: essay
 order: 33
+peer_review: true
 class: page-one
 contributor:
   # - id: lkargère

@@ -4,6 +4,7 @@ title: Technical Study of a Tibetan Five-Panel Initiation Crown
 subtitle:
 layout: essay
 order: 34
+peer_review: true
 class: page-one
 contributor:
   # - id: lsabouni

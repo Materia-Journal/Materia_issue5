@@ -5,6 +5,7 @@ subtitle: Attention and Materiality in Constable’s Sky Sketches in Oil on Pape
 layout: essay
 order: 32
 class: page-one
+peer_review: true
 contributor:
   - id: rframe
 abstract: |
