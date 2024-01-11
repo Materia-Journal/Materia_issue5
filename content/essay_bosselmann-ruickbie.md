@@ -3,6 +3,7 @@ label: I
 title: " *Craftsmanship Matters*: The Medieval Silver-gilt Casket in the Cathedral Treasury of Trier and Its Goldsmithing Techniques in the Context of Cultural Entanglement "
 layout: essay
 order: 31
+peer_review: true
 class: page-one
 contributor:
   - id: abosselmann-ruickbie
@@ -155,7 +156,7 @@ Grabar, Oleg. “The Shared Culture of Objects.” In *Byzantine Court Culture f
 
 Greeves, Tom, Sue Andrew, and Chris Chapman, eds. *The Three Hares: A Curiosity Worth Regarding*. South Molton: Skerryvore Productions, 2016.
 
-Hartmann, Sonngard. “Materialanalyse: Vergoldeter Silberkasten (RGZM WB_2018_0081).” In *Potentiale einer Objektbiographie: Der hochmittelalterliche Silberkasten aus Sizilien im Trierer Domschatz*, edited by Antje Bosselmann-Ruickbie, Byzantium between Orient and Occident. Mainz: Verlag des Römisch-Germanischen Zentralmuseums, forthcoming .
+Hartmann, Sonngard. “Materialanalyse: Vergoldeter Silberkasten (LEIZA WB_2018_0081).” In *Potentiale einer Objektbiographie: Der hochmittelalterliche Silberkasten aus Sizilien im Trierer Domschatz*, edited by Antje Bosselmann-Ruickbie, Byzantium between Orient and Occident. Mainz: Verlag des Römisch-Germanischen Zentralmuseums, forthcoming .
 
 Heyen, Franz-Josef. *Das Stift St. Paulin vor Trier: Das Erzbistum Trier*. Vol. 1, *Germania Sacra* 6, edited by Max-Planck-Institut für Geschichte. Berlin: Walter de Gruyter, 1972.
 
@@ -215,7 +216,7 @@ Stürner, Wolfgang. *Friedrich II.* 2 vols. Darmstadt: Wissenschaftliche Buchges
 
 [^3]: Antje Bosselmann-Ruickbie, ed., *Potentiale einer Objektbiographie: Der hochmittelalterliche Silberkasten aus Sizilien im Trierer Domschatz*, Byzantium between Orient and Occident (Mainz: Verlag des Römisch-Germanischen Zentralmuseums (forthcoming), [[https://www.byzanz-mainz.de/forschung/a/article/potentiale-einer-objektbiographie-der-hochmittelalterliche-silberkasten-im-trierer-domschatz/]{.ul}](https://www.byzanz-mainz.de/forschung/a/article/potentiale-einer-objektbiographie-der-hochmittelalterliche-silberkasten-im-trierer-domschatz/).
 
-[^4]: See the reports of the RGZM: Stephan Patscher and Matthias Heinzel, “Zur Herstellungstechnik des sogenannten ‘Trierer Silberkastens’ in der Schatzkammer der Hohen Domkirche St. Peter zu Trier,“ in Bosselmann-Ruickbie, *Potentiale einer Objektbiographie*; and Sonngard Hartmann, “Materialanalyse: Vergoldeter Silberkasten (RGZM WB_2018_0081),” in Bosselmann-Ruickbie, *Potentiale einer Objektbiographie*. My sincere thanks to Prof. Susanne Greiff for making the analyses possible, and to Sonngard Hartmann, Stephan Patscher, and Matthias Heinzel for their invaluable enthusiasm and constructive discussions.
+[^4]: See the reports of the LEIZA: Stephan Patscher and Matthias Heinzel, “Zur Herstellungstechnik des sogenannten ‘Trierer Silberkastens’ in der Schatzkammer der Hohen Domkirche St. Peter zu Trier,“ in Bosselmann-Ruickbie, *Potentiale einer Objektbiographie*; and Sonngard Hartmann, “Materialanalyse: Vergoldeter Silberkasten (LEIZA WB_2018_0081),” in Bosselmann-Ruickbie, *Potentiale einer Objektbiographie*. My sincere thanks to Prof. Susanne Greiff for making the analyses possible, and to Sonngard Hartmann, Stephan Patscher, and Matthias Heinzel for their invaluable enthusiasm and constructive discussions.
 
 [^5]: The peg with the seated lion originally would have had a hole at its lower end, which has been filed off. This hole probably would have held a little metal peg in place to avoid the lion peg falling out. It is very likely that this little peg was attached by a chain, which was fixed in the tiny hole visible over the central fitting on the top of the corpus front (see Fig. 2).
 
@@ -249,11 +250,11 @@ Stürner, Wolfgang. *Friedrich II.* 2 vols. Darmstadt: Wissenschaftliche Buchges
 
 [^20]: Auld, “Exploring Links,” 139–40.
 
-[^21]: See Patscher and Heinzel, “Zur Herstellungstechnik”; and Hartmann, “Materialanalyse.” For comparison with the analyses of the Tassilo-Liutpirc chalice in Kremsmünster, also investigated at the RGZM, see Florian Ströbele, Sonngard Hartmann, and Susanne Greiff, “Untersuchungen an den Silbereinlagen des Tassilo-Liutpirc-Kelches,” in *Der Tassilo-Liutpric-Kelch im Stift Kremsmünster: Geschichte, Archäologie, Kunst*, ed. Egon Wamers (Regensburg: Schnell & Steiner, 2019), 70–100.
+[^21]: See Patscher and Heinzel, “Zur Herstellungstechnik”; and Hartmann, “Materialanalyse.” For comparison with the analyses of the Tassilo-Liutpirc chalice in Kremsmünster, also investigated at the LEIZA, see Florian Ströbele, Sonngard Hartmann, and Susanne Greiff, “Untersuchungen an den Silbereinlagen des Tassilo-Liutpirc-Kelches,” in *Der Tassilo-Liutpric-Kelch im Stift Kremsmünster: Geschichte, Archäologie, Kunst*, ed. Egon Wamers (Regensburg: Schnell & Steiner, 2019), 70–100.
 
 [^22]: Precious-metal material for medieval goldsmiths’ works were often compiled from different sources, such as melted older objects and coins. See Ströbele, Hartmann, and Greiff, “Tassilo-Liutpirc Kelch,” 91–92.
 
-[^23]: For the analysis results, see Hartmann, “Materialanalyse.” To verify the silver alloy, a total of 240 measurements were taken (on 94 parts of the casket, 16 of which were parts of the frame and 8 of which were on the inserted plates with filigree and granulation). The sample areas were not prepared before measuring. Device: Eagle III by Roentgenanalytik Systeme GmbH & Co. KG, Taunusstein, Germany; monocapillaries with c. 300 µm focus (= area of analysis). The peg with the lion sculpture was re-analysed in 2020 at the RGZM with a new device, reducing the focus from 300 µm to 20 µm. Device: M4 Tornado, Bruker Nano GmbH Berlin; polycapillaries, c. 20 µm focus). The casket is made of four parts, which are all coherent in their silver content of far over 90%; the lion peg shows, however, some peculiarities regarding the lead content in one part, which might indicate a later repair.
+[^23]: For the analysis results, see Hartmann, “Materialanalyse.” To verify the silver alloy, a total of 240 measurements were taken (on 94 parts of the casket, 16 of which were parts of the frame and 8 of which were on the inserted plates with filigree and granulation). The sample areas were not prepared before measuring. Device: Eagle III by Roentgenanalytik Systeme GmbH & Co. KG, Taunusstein, Germany; monocapillaries with c. 300 µm focus (= area of analysis). The peg with the lion sculpture was re-analysed in 2020 at the LEIZA with a new device, reducing the focus from 300 µm to 20 µm. Device: M4 Tornado, Bruker Nano GmbH Berlin; polycapillaries, c. 20 µm focus). The casket is made of four parts, which are all coherent in their silver content of far over 90%; the lion peg shows, however, some peculiarities regarding the lead content in one part, which might indicate a later repair.
 
 [^24]: Except for the peg with the seated lion, which might have been exposed to higher temperatures (it could have also been a later addition). See Hartmann, “Materialanalyse.”
 
