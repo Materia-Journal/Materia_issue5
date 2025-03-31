@@ -1,10 +1,282 @@
 figure_list:
 
-  - id: "1-1"
+  - id: "2-1"
     label: "Fig. 1"
-    src: figures/bosselmann/fig-1-bosselmann-ruickbie.jpg
-    caption: "Trier casket, Sicily, mid-12th to early 13th century. Silver, gilded on the exterior, l. 11 13/16 in. (30 cm), w. 9 1/16 in. (23 cm), h. overall 9 1/16 in. (23 cm), h. including feet 9 9/16 in. (24.2 cm). Treasury of the Cathedral Saint Peter, Trier, inv. no. 17. Photo: Sabine Steidl, LEIZA, Mainz."
+    src: figures/munk/Fig-1-munk.jpg
+    caption: "Photo of the exhibition *De Stijl*, Galerie l’Effort Moderne, Paris 1923. On the wall, the floor plans of the ground floor and first floor of Hôtel Particulier are visible (Collectie Nieuwe Instituut/EEST, 3.360n1)."
     credit:
-    alt: "Silver-gilt casket in the Cathedral Treasure of Trier, Germany, Sicily, 12th to early 13th century, full view."
+    alt: "Black and white photograph of the exhibition space at Galerie l’Effort Moderne in Paris. The space features several maquettes and artworks displayed on the walls."
 
+  - id: "2-2"
+    label: "Fig. 2"
+    src: figures/munk/Fig-2-munk.jpg
+    caption: "Detail of the red-painted tape on the ground-floor plan of Hôtel Particulier, 1923 (Collectie Nieuwe Instituut/EEST, 3.178). Photo by RNA."
+    credit:
+    alt: "Close-up of the lower right corner of the ground-floor plan of Hôtel Particulier, highlighting red-painted tape details."
+
+  - id: "2-3"
+    label: "Fig. 3"
+    src: figures/munk/Fig-3-munk.jpg
+    caption: "Detail of the transparent pressure-sensitive tape and blue-coloured paint on the blue-glazed paper on the second-floor plan of Maison Particulière, 1923 (Collectie Nieuwe Instituut/DOES, 029). Photo by RNA."
+    credit:
+    alt: "Close-up of the upper left corner of the backside of the second-floor plan of Maison Particulière, showing transparent pressure-sensitive tape and blue paint on blue-glazed paper."
   
+  - id: "2-4"
+    label: "Fig. 4"
+    src: figures/munk/Fig-4-munk.jpg
+    caption: "Detail of the yellow-glazed paper on the first-floor plan of Maison d’Artiste, 1923 (Collectie Nieuwe Instituut/DOES, AB5127). Photo by RNA."
+    credit:
+    alt: "Close-up of the lower right corner of the first-floor plan of Maison d’Artiste, highlighting the yellow-glazed paper."
+
+  - id: "2-5"
+    label: "Fig. 5"
+    src: figures/munk/Fig-5-munk.jpg
+    caption: "Cornelis van Eesteren (left) and Theo van Doesburg (right) with their maquette of Maison Particulière in their studio, 1923 (Collectie Nieuwe Instituut/DOES, AB5302+). Photographer unknown."
+    credit:
+    alt: " Black and white photograph of Cornelis van Eesteren (left) and Theo van Doesburg (right) posing behind a maquette of Maison Particulière in their studio."
+
+  - id: "2-6"
+    label: "Fig. 6"
+    src: figures/munk/Fig-6-munk.jpg
+    caption: "The first-stage architectural design: the ground-floor plan of Maison Particulière, 1923 (Collectie Nieuwe Instituut/DOES, 030) and the axonometric projection of Maison Particulière from the southwest, 1923 (Collectie Nieuwe Instituut/ DOES, AB5115)."
+    credit:
+    alt: "Plan of the ground floor in orthogonal perspective of the Maison Particulière, a residential building, with blue-coloured frame."
+
+  - id: "2-7"
+    label: "Fig. 7"
+    src: figures/munk/Fig-7-munk.jpg
+    caption: "The first-stage architectural design: the ground-floor plan of Maison Particulière, 1923 (Collectie Nieuwe Instituut/DOES, 030) and the axonometric projection of Maison Particulière from the southwest, 1923 (Collectie Nieuwe Instituut/ DOES, AB5115)."
+    credit:
+    alt: "Axonometric projection of Maison Particulière, a residential building showing three floors of rectangular shapes, seen from the southwest."
+  
+  - id: "2-8"
+    label: "Fig. 8"
+    src: figures/munk/Fig-8-munk.jpg
+    caption: "Second-stage colour analysis: colour analysis on the axonometric projection of Maison Particulière from the northwest (Collectie Nieuwe Instituut/EEST, 3.181) and contra-construction of Maison Particulière from the southwest, 1923 (DOES, AB5117)."
+    credit:
+    alt: "Axonometric projection of Maison Particulière seen from the northwest. The horizontal and vertical surfaces are coloured red, yellow, blue, grey, white and black. "
+
+  - id: "2-9"
+    label: "Fig. 9"
+    src: figures/munk/Fig-9-munk.jpg
+    caption: "Second-stage colour analysis: colour analysis on the axonometric projection of Maison Particulière from the northwest (Collectie Nieuwe Instituut/EEST, 3.181) and contra-construction of Maison Particulière from the southwest, 1923 (DOES, AB5117)."
+    credit:
+    alt: "Deconstructed axonometric, so-called contra-construction, seen from the southwest. The drawing consists of rectangular and square planes in red, yellow, blue, grey, white and black, floating through space with no apparent connection."
+
+  - id: "2-10"
+    label: "Fig. 10"
+    src: figures/munk/Fig-10-munk.jpg
+    caption: "Third-stage synthesis: photo of the maquette of Maison Particulière from the southeast. Photographer unknown, 1923 (Collectie Nieuwe Instituut/ DOES, AB5125)."
+    credit:
+    alt: "Black and white photograph showing a bird's eye view of a maquette of a residential building from the southeast."
+
+  - id: "2-11"
+    label: "Fig. 11"
+    src: figures/munk/Fig-11-munk.jpg
+    caption: "Plans for the ground (Collectie Nieuwe Instituut/EEST, 3.178), first (EEST, 3.179), and second (EEST, 3.180) floors of Hôtel Particulier, 1923."
+    credit:
+    alt: "Collage of the ground floor of Hôtel Particulier, a villa and its garden, with a red-painted frame. The plan is made up of rectangular shapes."
+  
+  - id: "2-12"
+    label: "Fig. 12"
+    src: figures/munk/Fig-12-munk.jpg
+    caption: "Plans for the ground (Collectie Nieuwe Instituut/EEST, 3.178), first (EEST, 3.179), and second (EEST, 3.180) floors of Hôtel Particulier, 1923."
+    credit: 
+    alt: "Collage of the first floor of Hôtel Particulier, a villa, with unpainted brown frame. The plan is made up of rectangular shapes."
+
+  - id: "2-13"
+    label: "Fig. 13"
+    src: figures/munk/Fig-13-munk.jpg
+    caption: "Plans for the ground (Collectie Nieuwe Instituut/EEST, 3.178), first (EEST, 3.179), and second (EEST, 3.180) floors of Hôtel Particulier, 1923."
+    credit:
+    alt: "Collage of the second floor of Hôtel Particulier, a villa, with unpainted brown frame. The plan is made up of rectangular shapes."
+
+  - id: "2-14"
+    label: "Fig. 14"
+    src: figures/munk/Fig-14-munk.jpg
+    caption: "Detail of the tapes and drop marks in the top right corner of the second-floor plan of Hôtel Particulier, 1923 (Collectie Nieuwe Instituut/EEST, 3.180)."
+    credit:
+    alt: "Close-up of the unpainted brown tapes and drop marks on the artwork in the top right corner of the second-floor plan of Hôtel Particulier."
+
+  - id: "2-15"
+    label: "Fig. 15"
+    src: figures/munk/Fig-15-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, 028), second (DOES, 029), and ground (DOES, 030) floors of Maison Particulière, 1923."
+    credit:
+    alt: "Collage of the first floor of Maison Particulière, a residential building, with a blue-coloured tape frame. "
+  
+  - id: "2-16"
+    label: "Fig. 16"
+    src: figures/munk/Fig-16-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, 028), second (DOES, 029), and ground (DOES, 030) floors of Maison Particulière, 1923."
+    credit:
+    alt: "Collage of the second floor of Maison Particulière, a residential building, with a blue-coloured tape frame. "
+
+  - id: "2-17"
+    label: "Fig. 17"
+    src: figures/munk/Fig-17-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, 028), second (DOES, 029), and ground (DOES, 030) floors of Maison Particulière, 1923."
+    credit:
+    alt: "Collage of the ground floor of Maison Particulière, a residential building, with a blue-coloured tape frame. "
+
+  - id: "2-18"
+    label: "Fig. 18"
+    src: figures/munk/Fig-18-munk.jpg
+    caption: "Detail showing PVC tape on the first-floor plan (Collectie Nieuwe Instituut/DOES, 028), and detail of glazed paper with transparent pressure-sensitive tapes on the second-floor plan (DOES, 029) , 1923. Photos by RNA."
+    credit:
+    alt: "Close-up showing a detail of the blue-painted PVC tape on the first-floor plan."
+
+  - id: "2-19"
+    label: "Fig. 19"
+    src: figures/munk/Fig-19-munk.jpg
+    caption: "Detail showing PVC tape on the first-floor plan (Collectie Nieuwe Instituut/DOES, 028), and detail of glazed paper with transparent pressure-sensitive tapes on the second-floor plan (DOES, 029) , 1923. Photos by RNA."
+    credit:
+    alt: "Close-up showing a detail of the glazed paper with transparent pressure-sensitive tapes on the second-floor plan."
+  
+  - id: "2-20"
+    label: "Fig. 20"
+    src: figures/munk/Fig-20-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, AB5127), second (DOES, AB5128), and third (DOES, AB5129) floors of Maison d’Artiste, 1923."
+    credit:
+    alt: "Collage of the first floor plan of Maison d’Artiste, a house with a studio, with a yellow-coloured glazed paper frame. "
+  
+  - id: "2-21"
+    label: "Fig. 21"
+    src: figures/munk/Fig-21-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, AB5127), second (DOES, AB5128), and third (DOES, AB5129) floors of Maison d’Artiste, 1923."
+    credit:
+    alt: "Collage of the second floor plan of Maison d’Artiste, a house with a studio, with a yellow-coloured glazed paper frame. "
+
+  - id: "2-22"
+    label: "Fig. 22"
+    src: figures/munk/Fig-22-munk.jpg
+    caption: "Plans for the first (Collectie Nieuwe Instituut/DOES, AB5127), second (DOES, AB5128), and third (DOES, AB5129) floors of Maison d’Artiste, 1923."
+    credit:
+    alt: "Collage of the third floor plan of Maison d’Artiste, a house with a studio, with a yellow-coloured glazed paper frame. "
+
+  - id: "2-23"
+    label: "Fig. 23"
+    src: figures/munk/Fig-23-munk.jpg
+    caption: "Detail of stains and spots on the first-floor plan of Maison d’Artiste (Collectie Nieuwe Instituut/DOES, AB5127), 1923. Photo by RNA."
+    credit:
+    alt: "Close-up of the lower left corner of the first floor-plan of the Maison d'Artiste, showing stains, spots and the yellow glazed paper frame."
+  
+  - id: "2-24"
+    label: "Fig. 24"
+    src: figures/munk/Fig-24-munk.jpg
+    caption: "Glass-plate negative of Maison Particulière made by Paul Lemare with retouches in black paper tape (here showing in white) by Van Doesburg, 1923 (Collectie Nieuwe Instituut. EEST 11n4). “The light of the reflector is too strong, thereby showing all the flaws of the model. . . . Who photographs a model on a pedestal! Blöd!*”*"
+    credit:
+    alt: "Glass plate negative of the maquette of Maison Particulière, retouched with black paper tape (visible as white on the photograph), framed around the part of the photograph showing the maquette."
+
+  - id: "2-25"
+    label: "Fig. 25"
+    src: figures/munk/Fig-25-munk.jpg
+    caption: "Photo reproduction of the ground-floor plan of Maison d’Artiste (Collectie Nieuwe Instituut/DOES, AB5126) after 1923. The original collage has been lost."
+    credit:
+    alt: "Photo reproduction of the ground-floor plan of Maison d’Artiste, a house with a studio."
+
+  - id: "2-26"
+    label: "Fig. 26"
+    src: figures/munk/Fig-26-munk.jpg
+    caption: "Verso of the ground-floor plan, Hôtel Particulier (Collectie Nieuwe Instituut/EEST, 3.178),"
+    credit:
+    alt: "The verso of the ground-floor plan of Hôtel Particulier, showing the straw board on which the collage is mounted, unpainted brown frame, one MoMA exhibition label and handwritten comment '170'."
+
+  - id: "2-27"
+    label: "Fig. 27"
+    src: figures/munk/Fig-27-munk.jpg
+    caption: "Verso of the first-floor plan, Hôtel Particulier (EEST, 3.179)."
+    credit:
+    alt: "The verso of the first-floor plan of Hôtel Particulier, showing the grey backing paper, red-coloured tape, and several labels."
+  
+  - id: "2-28"
+    label: "Fig. 28"
+    src: figures/munk/Fig-28-munk.jpg
+    caption: "Verso of the second-floor plan, Hôtel Particulier (EEST, 3.180)."
+    credit:
+    alt: "The verso of the second-floor plan of Hôtel Particulier, showing the grey backing paper, red-coloured tape, and several labels."
+
+  - id: "2-29"
+    label: "Fig. 29"
+    src: figures/munk/Fig-29-munk.jpg
+    caption: "Verso of the first-floor plan, Maison Particulière (DOES, 028)."
+    credit:
+    alt: "The verso of the first-floor plan of Maison Particulière, showing the grey backing paper, blue-coloured tapes, and several labels."
+
+  - id: "2-30"
+    label: "Fig. 30"
+    src: figures/munk/Fig-30-munk.jpg
+    caption: "Verso of the second-floor plan, Maison Particulière (DOES, 029)."
+    credit:
+    alt: "The verso of the second-floor plan of Maison Particulière, showing the grey backing paper, blue-coloured tape, and several labels."
+
+  - id: "2-31"
+    label: "Fig. 31"
+    src: figures/munk/Fig-31-munk.jpg
+    caption: "Verso of the ground-floor plan, Maison Particulière (DOES, 030)."
+    credit:
+    alt: "The verso of the ground-floor plan of Maison Particulière, showing the grey backing paper, blue-coloured tape, and several labels."
+  
+  - id: "2-32"
+    label: "Fig. 32"
+    src: figures/munk/Fig-32-munk.jpg
+    caption: "Verso of the first-floor plan, Maison d’Artiste (DOES, AB5127)."
+    credit:
+    alt: "The verso of the first-floor plan of Maison d’Artiste, showing the grey backing paper, yellow-coloured tape, and several labels."
+
+  - id: "2-33"
+    label: "Fig. 33"
+    src: figures/munk/Fig-33-munk.jpg
+    caption: "Verso of the second-floor plan, Maison d’Artiste (DOES, AB5128)."
+    credit:
+    alt: "The verso of the second-floor plan of Maison d’Artiste, showing the grey backing paper, yellow-coloured tape, and several labels."
+
+  - id: "2-34"
+    label: "Fig. 34"
+    src: figures/munk/Fig-34-munk.jpg
+    caption: "Verso of the third-floor, plan Maison d’Artiste (DOES, AB5129)."
+    credit:
+    alt: "The verso of the third-floor plan of Maison d’Artiste, showing the grey backing paper, yellow-coloured tape, and several labels."
+
+  - id: "2-35"
+    label: "Fig. 35"
+    src: figures/munk/Fig-35-munk.jpg
+    caption: "Detail of the photo of the exhibition *De Stijl*, Galerie l’Effort Moderne, Paris 1923 (Collectie Nieuwe Instituut/EEST, 3.360n1) (fig. 1). Note the red frames on the ground- and first-floor plans (EEST, 3.178; EEST, 3.179). In the front is the maquette of Maison d’Artiste."
+    credit:
+    alt: "Detail of the black and white photograph of the De Stijl exhibition at Galerie l’Effort Moderne, zooming in on the ground- and first-floor plans of Hôtel Particulier on the wall; in the front is the maquette of Maison d’Artiste."
+  
+  - id: "2-36"
+    label: "Fig. 36"
+    src: figures/munk/Fig-36-munk.jpg
+    caption: "Exhibition timeline and labels."
+    credit:
+    alt: "Timeline of the exhibition history based on the labels on the verso of the floor plans, arranged in sets according to the colours (yellow, blue, red) of the frames. The timeline begins with the oldest label from 1923 and continues until 2012."
+
+  - id: "2-37"
+    label: "Fig. 37"
+    src: figures/munk/Fig-37-munk.jpg
+    caption: "The label types with colour codes for locations on plans."
+    credit:
+    alt: "Overview of the labels found on the nine floor plans. The overview includes a transcription of the text on the eight-sided label and indicates on which floor plans the different types of labels were found."
+
+  - id: "2-38"
+    label: "Fig. 38"
+    src: figures/munk/Fig-38-munk.jpg
+    caption: "Floor plans of Hôtel Particulier (Collectie Nieuwe Instituut/EEST, 3.178; EEST, 3.179; EEST, 3.180) and their models."
+    credit:
+    alt: "Technical reconstruction of the structure of the coloured tape frame on the floor plans of Hôtel Particulier."
+
+  - id: "2-39"
+    label: "Fig. 39"
+    src: figures/munk/Fig-39-munk.jpg
+    caption: "Floor plans of Maison Particulière (Collectie Nieuwe Instituut DOES, 030, DOES, 028, DOES, 029) and their models."
+    credit:
+    alt: "Technical reconstruction of the structure of the coloured tape frame on the floor plans of Maison Particulière."
+  
+  - id: "2-40"
+    label: "Fig. 40"
+    src: figures/munk/Fig-40-munk.jpg
+    caption: "First- and third-floor plans of Maison d’Artiste (Collectie Nieuwe Instituut/DOES, AB127; DOES, AB129) and their model."
+    credit:
+    alt: "Technical reconstruction of the structure of the coloured tape frame on the floor plans of Maison d’Artiste."
+
