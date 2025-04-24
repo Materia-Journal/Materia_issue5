@@ -280,3 +280,194 @@ figure_list:
     credit:
     alt: "Technical reconstruction of the structure of the coloured tape frame on the floor plans of Maison d’Artiste."
 
+  - id: "3-1"
+    label: "Fig. 1"
+    src: figures/Felici/Fig-1-Jean_Felici.jpg
+    caption: "Giovanni Antonio Colomba, stucco decoration, 1640, Arogno (Switzerland), Church of S. Stefano, Chapel of the Rosary."
+    credit:
+    alt: "An interior of a Baroque-style chapel with an ornate altar, adorned with sculptures, frescoes, and intricate stucco work."
+
+  - id: "3-2"
+    label: "Fig. 2"
+    src: figures/Felici/Fig-2-Jean_Felici.jpg
+    caption: "Agostino Silva (attributed to), *Statue of a Saint (Saint Joseph?)*, ca. 1669–75, Cavallasca (Como, Italy), Oratory Imbonati. The poor state of repair of the statue makes visible the iron bars ofthe supporting structure, the base layer of stucco, and the white finishing layer."
+    credit:
+    alt: "A weathered plaster statue of a bearded saint with a metal halo, holding a child and set in a niche with a scalloped shell design. The statue’s deteriorated condition exposes internal iron bars as well as stucco and white finishing layers."
+
+  - id: "3-3a"
+    label: "Fig. 3a"
+    src: figures/Felici/Fig-3-Jean_Felici.jpg
+    caption: "Morbio Inferiore, Parish Archive, book B, “Book for the notation of income and expenses made in the Church of the Blessed Virgin Mary of the Graces of Morbio di Sotto, 1665–1726.”"
+    credit:
+    alt: "A book cover made of stained and discolored parchment or leather, with handwritten inscriptions and markings in black and blue ink, a red stamp with the letter 'B', and a modern label with additional handwriting."
+  
+  - id: "3-3b"
+    label: "Fig. 3b"
+    src: figures/Felici/Fig-3.2-Jean_Felici.jpg
+    caption: "Morbio Inferiore, Parish Archive, book B, “Book for the notation of income and expenses made in the Church of the Blessed Virgin Mary of the Graces of Morbio di Sotto, 1665–1726.”"
+    credit:
+    alt: "A page showing financial or administrative records, listing monetary amounts and descriptions of expenses or transactions."
+
+  - id: "3-4"
+    label: "Fig. 4"
+    src: figures/Felici/Fig-4-Jean_Felici.jpg
+    caption: "Close-up visual observations at the Sanctuary of Madonna d’Ongero, Carona."
+    credit:
+    alt: " Members of the research team conduct a close-up inspection of a stucco decoration using a movable platform."
+
+  - id: "3-5"
+    label: "Fig. 5"
+    src: figures/Felici/Fig-5-Jean_Felici.jpg
+    caption: "Agostino Silva (attributed to), stucco decoration, ca. 1668–75, Cantù (Italy), Church of the Transfiguration."
+    credit:
+    alt: "A deteriorated stucco sculpture of an angelic figure with an exposed internal structure, showing iron armatures and two layers of stucco (ground and finishing layers)."
+
+  - id: "3-6"
+    label: "Fig. 6"
+    src: figures/Felici/Fig-6-Jean_Felici.jpg
+    caption: "Documentation of samples under a petrographic microscope. (Marta Caroselli, Institute for Materials and Construction, University of Applied Sciences and Arts of Southern Switzerland [SUPSI])."
+    credit:
+    alt: "A researcher in a laboratory examines a sample under a microscope. A desktop computer displays a magnified image of the sample."
+  
+  - id: "3-7a"
+    label: "Fig. 7a"
+    src: figures/Felici/Fig-7-Jean_Felici.jpg
+    caption: "Arogno, Church of S. Stefano, Chapel of the Rosary, photograph of the arm of a statue and corresponding X-ray image where the iron bars (among which is the vergella) can be seen."
+    credit:
+    alt: "The arm of a statue prepared for an X-ray, with a black plate placed behind it to capture the image."
+
+  - id: "3-7b"
+    label: "Fig. 7b"
+    src: figures/Felici/Fig-7.2-Jean_Felici.jpg
+    caption: "Arogno, Church of S. Stefano, Chapel of the Rosary, photograph of the arm of a statue and corresponding X-ray image where the iron bars (among which is the vergella) can be seen."
+    credit:
+    alt: "An X-ray image showing the iron bars inside the arm of the statue."
+
+  - id: "3-8"
+    label: "Fig. 8"
+    src: figures/Felici/Fig-8-Jean_Felici.jpg
+    caption: "Making replicas. (Giovanni Nicoli, Institute for Materials and Constructions, University of Applied Sciences and Arts of Southern Switzerland [SUPSI])."
+    credit:
+    alt: "A member of the research team making a stucco decoration replica. A brick support and three layers (lime-gypsum, pozzolana-lime, and a finishing layer of lime and marble powder) are visible, with working tools lying at the base of the decoration."
+
+  - id: "3-9"
+    label: "Fig. 9"
+    src: figures/Felici/Fig-9-Jean_Felici.jpg
+    caption: "Tommaso Carlone, Chimneypiece from Casa Carlone, early 1600s. See the supporting structure in the upper part composed of *pianelle*. (Mendrisio, Atelier Conservation-Restoration, SUPSI)."
+    credit:
+    alt: "Detail of thin bricks used to form the upper part of a decorative molding."
+  
+  - id: "3-10"
+    label: "Fig. 10"
+    src: figures/Felici/Fig-10-Jean_Felici.jpg
+    caption: "Cavallasca (Como, Italy), Oratory Imbonati, ca. 1669–75, base of the pillars."
+    credit: 
+    alt: "Detail of the base of a pillar made with rounded bricks."
+
+  - id: "3-11"
+    label: "Fig. 11"
+    src: figures/Felici/Fig-11-Jean_Felici.jpg
+    caption: "Alessandro Capra, *Nuova architettura civile e militare* (Cremona: Pietro Ricchini, 1717; facs. repr., Bologna: Forni, 1987), book 2, 86."
+    credit:
+    alt: "An architectural diagram showing different masonry profiles and brick molding types and their possible arrangement in walls to create different decorative designs."
+
+  - id: "3-12"
+    label: "Fig. 12"
+    src: figures/Felici/Fig-12-Jean_Felici.jpg
+    caption: "Agostino Silva (attributed to), stucco decoration, ca. 1668–75, Cantù (Italy), Church of the Transfiguration."
+    credit:
+    alt: "Detail of a deteriorated stucco decoration, showing exposed supporting nails that are usually hidden."
+
+  - id: "3-13"
+    label: "Fig. 13"
+    src: figures/Felici/Fig-13-Jean_Felici.jpg
+    caption: "Agostino Silva (attributed to), Wing of an angel, ca. 1669–75, Cavallasca (Como, Italy), Oratory Imbonati. The internal iron bars (among which is the vergella) are clearly visible."
+    credit:
+    alt: "Detail of a deteriorated stucco decoration, showing exposed internal iron bars as well as coarse and finishing layers."
+  
+  - id: "3-14"
+    label: "Fig. 14"
+    src: figures/Felici/Fig-14-Jean_Felici.jpg
+    caption: "Ossuccio (Como, Italy), Church of the Madonna del Soccorso, detail of layers and composition of a stucco decoration. The coarse internal layer is composed of coarse sand and lime, the finishing coat of marble powder and lime."
+    credit:
+    alt: "Detail of a deteriorated stucco decoration, with the missing finishing layer revealing an internal layer made of coarse sand. "
+
+  - id: "3-15"
+    label: "Fig. 15"
+    src: figures/Felici/Fig-15-Jean_Felici.jpg
+    caption: "Alessandro Casella, stucco decoration in the presbytery, ca. 1646, Carona, Sanctuary of Madonna d’Ongero, detail of the base layer."
+    credit:
+    alt: "Detail of a deteriorated stucco decoration. The missing finishing layer exposes a coarse layer containing an ocher clay aggregate."
+
+  - id: "3-16"
+    label: "Fig. 16"
+    src: figures/Felici/Fig-16-Jean_Felici.jpg
+    caption: "Tommaso Carlone, chimneypiece from Casa Carlone, early eventeenth century, detail of the internal layers composing the leg of the putto. (Mendrisio, Atelier Conservation-Restoration, SUPSI)"
+    credit:
+    alt: "Detail of a deteriorated stucco decoration. The missing part of the decoration exposes a coarse white layer composed of lime and gypsum, a second coarse layer and a bright white finishing layer."
+
+  - id: "3-17"
+    label: "Fig. 17"
+    src: figures/Felici/Fig-17-Jean_Felici.jpg
+    caption: "Gianfrancesco Silva (attributed to), detail of the wing of a putto seated on the top of the cornice, ca. 1692–1705, Morbio Superiore, Church of St. Anne. The mortar contains a significant amount of vegetal fibers."
+    credit:
+    alt: "Detail of the damaged wing of a stucco angel, showing the exposed interior with vegetal fibers."
+
+  - id: "3-18"
+    label: "Fig. 18"
+    src: figures/Felici/Fig-18-Jean_Felici.jpg
+    caption: "Agostino Silva, *St. Peter of Alcantara*, ca. 1665, Morbio Inferiore, Church of the Blessed Virgin Mary, Chapel of St. Joseph."
+    credit:
+    alt: "Detail of a statue of St. Peter of Alcantara, with his habit secured by a real cord painted white. The cross in his hand is made of wood and painted gold."
+  
+  - id: "3-19a"
+    label: "Fig. 19a"
+    src: figures/Felici/Fig-19-Jean_Felici.jpg
+    caption: "Figures 19a-g: Making a replica of a decorated cornice using a press mould. (Giovanni Nicoli, Institute of Materials and Constructions, SUPSI)."
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19b"
+    label: "Fig. 19b"
+    src: figures/Felici/Fig-19.2-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19c"
+    label: "Fig. 19c"
+    src: figures/Felici/Fig-19.3-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19d"
+    label: "Fig. 19d"
+    src: figures/Felici/Fig-19.4-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19e"
+    label: "Fig. 19e"
+    src: figures/Felici/Fig-19.5-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19f"
+    label: "Fig. 19f"
+    src: figures/Felici/Fig-19.6-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+  - id: "3-19g"
+    label: "Fig. 19g"
+    src: figures/Felici/Fig-19.7-Jean_Felici.jpg
+    caption: 
+    credit:
+    alt: "Stages of creating a decorated corniche using a press mould."
+
+
+  
