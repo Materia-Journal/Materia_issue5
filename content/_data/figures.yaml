@@ -1,5 +1,166 @@
 figure_list:
 
+  - id: "1-1"
+    label: "Fig. 1"
+    src: figures/chau/Fig-1-chau.jpg
+    caption: "John La Farge, *Peacock Window*, 1892; reworked 1907–8. Stained glass, 101.5 x 50.7 cm. Worcester Art Museum. This image shows the front of the window with transmitted illumination showcasing the artist’s innovative use of color and light through the manipulation of the stained-glass medium."
+    credit:
+    alt: ""
+
+  - id: "1-2"
+    label: "Fig. 2"
+    src: figures/chau/Fig-2-chau.jpg
+    caption: "This diagram illustrates the traditional leading technique in stained glass. Flat glass pieces (indicated in green) are interconnected by slotting them into lead came (shown in gray). The lead joints are subsequently soldered at both the front and the back, enhancing structural integrity (soldering details not depicted)."
+    credit:
+    alt: ""
+
+  - id: "1-3a"
+    label: "Fig. 3a"
+    src: figures/chau/Fig-3a-chau.jpg
+    caption: "Detail of the lower proper-left side that captures the blues and greens in the water.  Through the careful selection, shaping, and layering of glass, the artist achieved the impression of softly rippling water."
+    credit:
+    alt: ""
+
+  - id: "1-3b"
+    label: "Fig. 3b"
+    src: figures/chau/Fig-3b-chau.jpg
+    caption: "Detail of the upper proper-right side that captures the deep violets and magentas of the sky, creating an atmosphere of dusk or dawn."
+    credit:
+    alt: ""
+
+  - id: "1-4"
+    label: "Fig. 4"
+    src: figures/chau/Fig-4-chau.jpg
+    caption: "The 2018–19 exhibition *Stained Glass: Tiffany and La Farge* at the Worcester Art Museum featured two large lancets by John La Farge (left), three church windows by Louis Comfort Tiffany, including a monochrome illustration of a missing panel (center), and La Farge’s *Peacock Window* (right). Despite its small scale, *Peacock Window* exemplifies the artist’s mastery of the medium and its pivotal role in the evolution of stained-glass artistry."
+    credit:
+    alt: ""
+
+  - id: "1-5"
+    label: "Fig. 5"
+    src: figures/chau/Fig-5-chau.jpg
+    caption: "An example of La Farge’s dynamic application of painted brushstrokes on the reverse side of the peacock ocelli feathers. These oil-based brushstrokes delineate specific areas of the ocelli, enhancing their definition and modulating the tonal variations present within the composition."
+    credit:
+    alt: ""
+
+  - id: "1-6"
+    label: "Fig. 6"
+    src: figures/chau/Fig-6-chau.jpg
+    caption: "This detail, located on the reverse of one of the peonies, reveals an additional painted area where the artist applied a wash of oil-based paint. The texture is created through the technique of hatching, achieved by scraping away the paint. While the definitions of the marks are not visible from the front view, they nonetheless contribute to a mottled effect on the peonies, subtly influencing their visual appearance."
+    credit:
+    alt: ""
+
+  - id: "1-7"
+    label: "Fig. 7"
+    src: figures/chau/Fig-7-chau.jpg
+    caption: "The front of the peacock features a fused-glass area decorated with oil-based and glass-based paint applied in splotches and with a palette knife. These techniques yield more-pronounced tonal variations than those on the reverse."
+    credit:
+    alt: ""
+
+  - id: "1-8"
+    label: "Fig. 8"
+    src: figures/chau/Fig-8-chau.jpg
+    caption: "A fingerprint, transferred and created with one of La Farge's paints, is notably distinct and pressed into the paint, sharply contrasting with the surrounding gestural brushstrokes."
+    credit:
+    alt: ""
+
+  - id: "1-9"
+    label: "Fig. 9"
+    src: figures/chau/Fig-9-chau.jpg
+    caption: "Detail of the extensive craquelure of the fused glass in the peacock and peonies. La Farge layered colorless glass over hundreds of colors before fusing them together. The craquelure originating from the original manufacturing process, due to incompatible expansion rates of the glass, creates a mesmerizing effect under transmitted illumination."
+    credit:
+    alt: ""
+
+  - id: "1-10"
+    label: "Fig. 10"
+    src: figures/chau/Fig-10-chau.jpg
+    caption: "The craquelure present throughout the fused glass areas, particularly in the tail feathers of the peacock, contributes to a distinctive shimmering effect."
+    credit:
+    alt: ""
+
+  - id: "1-11"
+    label: "Fig. 11"
+    src: figures/chau/Fig-11-chau.jpg
+    caption: "Detail of the peony in the upper proper-right corner under normal illumination, featuring a distinctive colorless glass piece characterized by blisters, cracks, and losses. The organic nature of the piece suggests personal manipulation, and the presence of embedded grime and calcification, which are absent elsewhere in the window, suggests a selection from an older glass source. This unique piece creates a blurred ethereal effect under transmitted illumination."
+    credit:
+    alt: ""
+
+  - id: "1-12"
+    label: "Fig. 12"
+    src: figures/chau/Fig-12-chau.jpg
+    caption: "Louis Comfort Tiffany. *Cypriote Vase*, 1900.Favrile glass, H. 23.8 cm. Philadelphia Museum of Art. A concept similar to that of La Farge but with a different outcome is visible in Tiffany’s use of crater-textured glass forms. Although the craters vary in size and pattern, there is a consistent softness, depth, and distribution throughout the piece."
+    credit:
+    alt: ""
+
+  - id: "1-13a"
+    label: "Fig. 13a"
+    src: figures/chau/Fig-13a-chau.jpg
+    caption: "Detail captured using Reflectance Transformation Imaging (RTI), illustrating the variety of cubic-shaped glass tesserae created before firing and craquelure resulting from the fusing process. The cubical glass exhibits softer, more closely parallel cuts, in contrast to the finer, organic branching cracks present in the fused glass."
+    credit:
+    alt: ""
+
+  - id: "1-13b"
+    label: "Fig. 13b"
+    src: figures/chau/Fig-13b-chau.jpg
+    caption: "Detail captured using RTI, revealing a loss of cubical-shaped glass from the peacock that has exposed a grout-like material underneath that resembles mosaicking."
+    credit:
+    alt: ""
+
+  - id: "1-14"
+    label: "Fig. 14"
+    src: figures/chau/Fig-14-chau.jpg
+    caption: "Initially perceived as dense and challenging to interpret, this detail of the peacock under normal illumination reveals how La Farge colored his putties to match the hues of adjacent glass. Green-toned putty is utilized in the gaps beside the green glass, a technique also evident with the purple and orange putties. The use of colored putty may have been intended to avoid adding to lead lines and instead add color to the area in normal and/or transmitted light."
+    credit:
+    alt: ""
+
+  - id: "1-15"
+    label: "Fig. 15"
+    src: figures/chau/Fig-15-chau.jpg
+    caption: "This diagram illustrates the copper-foiling technique used in stained glass. The edges of flat glass pieces (indicated in green) are joined by wrapping the connecting edges with copper foil. These foiled areas are then soldered on the front and back (not depicted). Copper foil allows for thinner lead lines, varied widths along the same line, and joining intricate shapes and small glass pieces. "
+    credit:
+    alt: ""
+
+  - id: "1-16"
+    label: "Fig. 16"
+    src: figures/chau/Fig-16-chau.jpg
+    caption: "Detail of copper foil along the heart of the lead around one of the cloisonné peonies. A joining plate that fit beside the peony into the heart was temporarily removed for treatment, revealing the copper foil. The copper foil tends to extend the top flange of the peony, helping to create a thicker lead line. This method is visible around all cloisonné areas. "
+    credit:
+    alt: ""
+
+  - id: "1-17"
+    label: "Fig. 17"
+    src: figures/chau/Fig-17-chau.jpg
+    caption: "Surrounding the peacock, including along the proper left border of the head, the copper foil serves a dual purpose: it extends the flange at the top and is also applied along adjacent glass plates to address any gaps. This copper foil supports the putty, which in turn blocks light leakage."
+    credit:
+    alt: ""
+
+  - id: "1-18"
+    label: "Fig. 18"
+    src: figures/chau/Fig-18-chau.jpg
+    caption: "Under normal illumination, black wax-like markings on a colorless glass plate were apparent, especially after surface cleaning. The markings show that the artist  made a change in his choice for the shape."
+    credit:
+    alt: ""
+
+  - id: "1-19a"
+    label: "Fig. 19a"
+    src: figures/chau/Fig-19a-chau.jpg
+    caption: "Whether the colorless glass plate with glass corrosion was selected intentionally or occurred after manufacture came into question. The black wax-like markings are present only in the corrosion pits, suggesting that the corrosion was present at the time of the selection of the glass plate."
+    credit:
+    alt: ""
+
+  - id: "1-19b"
+    label: "Fig. 19b"
+    src: figures/chau/Fig-19b-chau.jpg
+    caption: "The corroded glass plate overlying the green foliage mutes the colors and imparts a delicate, organic, speckled appearance when viewed under transmitted illumination."
+    credit:
+    alt: ""
+
+  - id: "1-19c"
+    label: "Fig. 19c"
+    src: figures/chau/Fig-19c-chau.jpg
+    caption: "When the corroded glass plate is removed, the foliage loses these characteristics, resulting in their appearing brighter with less variation in color tones and a flatter texture. These characteristics also shift the foliage forward into the same plane as the peacock."
+    credit:
+    alt: ""
+
   - id: "2-1"
     label: "Fig. 1"
     src: figures/munk/Fig-1-munk.jpg
