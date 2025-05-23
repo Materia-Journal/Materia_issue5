@@ -3,7 +3,7 @@ figure_list:
   - id: "1-1"
     label: "Fig. 1"
     src: figures/chau/Fig-1-chau.jpg
-    caption: "John La Farge, *Peacock Window*, 1892; reworked 1907–8. Stained glass, 101.5 x 50.7 cm. Worcester Art Museum. This image shows the front of the window with transmitted illumination showcasing the artist’s innovative use of color and light through the manipulation of the stained-glass medium."
+    caption: "John La Farge, *Peacock Window*, 1892; reworked 1907–8. Stained glass, 101.5 x 50.7 cm. Worcester Art Museum. This image shows the front of the window with transmitted illumination showcasing the artist’s innovative use of color and light through the manipulation of the stained-glass medium. Photograph by Stephen Briggs. Image source: Worcester Art Museum / Bridgeman Images"
     credit:
     alt: ""
 
@@ -17,7 +17,7 @@ figure_list:
   - id: "1-3a"
     label: "Fig. 3a"
     src: figures/chau/Fig-3a-chau.jpg
-    caption: "Detail of the lower proper-left side that captures the blues and greens in the water.  Through the careful selection, shaping, and layering of glass, the artist achieved the impression of softly rippling water."
+    caption: "Detail of the lower proper-left side of *Peacock Window* that captures the blues and greens in the water.  Through the careful selection, shaping, and layering of glass, the artist achieved the impression of softly rippling water."
     credit:
     alt: ""
 
@@ -38,7 +38,7 @@ figure_list:
   - id: "1-5"
     label: "Fig. 5"
     src: figures/chau/Fig-5-chau.jpg
-    caption: "An example of La Farge’s dynamic application of painted brushstrokes on the reverse side of the peacock ocelli feathers. These oil-based brushstrokes delineate specific areas of the ocelli, enhancing their definition and modulating the tonal variations present within the composition."
+    caption: "An example of La Farge’s dynamic application of painted brushstrokes on the reverse side of the peacock ocelli feathers in *Peacock Window*. These oil-based brushstrokes delineate specific areas of the ocelli, enhancing their definition and modulating the tonal variations present within the composition."
     credit:
     alt: ""
 
@@ -87,14 +87,14 @@ figure_list:
   - id: "1-12"
     label: "Fig. 12"
     src: figures/chau/Fig-12-chau.jpg
-    caption: "Louis Comfort Tiffany. *Cypriote Vase*, 1900.Favrile glass, H. 23.8 cm. Philadelphia Museum of Art. A concept similar to that of La Farge but with a different outcome is visible in Tiffany’s use of crater-textured glass forms. Although the craters vary in size and pattern, there is a consistent softness, depth, and distribution throughout the piece."
+    caption: "*Cypriote Vase*, c. 1900, Designed by Louis Comfort Tiffany, made by the Tiffany Glass and Decorating Company, Corona, New York (1892–1902). Purchased with the Joseph E. Temple Fund, 1901. Image source: Philadelphia Museum of Art / Bridgeman Images.\n\nA concept similar to that of La Farge but with a different outcome is visible in Tiffany’s use of crater-textured glass forms. Although the craters vary in size and pattern, there is a consistent softness, depth, and distribution throughout the piece."
     credit:
     alt: ""
 
   - id: "1-13a"
     label: "Fig. 13a"
     src: figures/chau/Fig-13a-chau.jpg
-    caption: "Detail captured using Reflectance Transformation Imaging (RTI), illustrating the variety of cubic-shaped glass tesserae created before firing and craquelure resulting from the fusing process. The cubical glass exhibits softer, more closely parallel cuts, in contrast to the finer, organic branching cracks present in the fused glass."
+    caption: "Detail of *Peacock Window* captured using Reflectance Transformation Imaging (RTI), illustrating the variety of cubic-shaped glass tesserae created before firing and craquelure resulting from the fusing process. The cubical glass exhibits softer, more closely parallel cuts, in contrast to the finer, organic branching cracks present in the fused glass."
     credit:
     alt: ""
 
@@ -115,14 +115,14 @@ figure_list:
   - id: "1-15"
     label: "Fig. 15"
     src: figures/chau/Fig-15-chau.jpg
-    caption: "This diagram illustrates the copper-foiling technique used in stained glass. The edges of flat glass pieces (indicated in green) are joined by wrapping the connecting edges with copper foil. These foiled areas are then soldered on the front and back (not depicted). Copper foil allows for thinner lead lines, varied widths along the same line, and joining intricate shapes and small glass pieces. "
+    caption: "This diagram illustrates the copper-foiling technique used in stained glass. The edges of flat glass pieces (indicated in green) are joined by wrapping the connecting edges with copper foil. These foiled areas are then soldered on the front and back (not depicted). Copper foil allows for thinner lead lines, varied widths along the same line, and joining intricate shapes and small glass pieces."
     credit:
     alt: ""
 
   - id: "1-16"
     label: "Fig. 16"
     src: figures/chau/Fig-16-chau.jpg
-    caption: "Detail of copper foil along the heart of the lead around one of the cloisonné peonies. A joining plate that fit beside the peony into the heart was temporarily removed for treatment, revealing the copper foil. The copper foil tends to extend the top flange of the peony, helping to create a thicker lead line. This method is visible around all cloisonné areas. "
+    caption: "Detail of copper foil along the heart of the lead around one of the cloisonné peonies in *Peacock Window*. A joining plate that fit beside the peony into the heart was temporarily removed for treatment, revealing the copper foil. The copper foil tends to extend the top flange of the peony, helping to create a thicker lead line. This method is visible around all cloisonné areas."
     credit:
     alt: ""
 
