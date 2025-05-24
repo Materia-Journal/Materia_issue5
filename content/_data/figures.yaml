@@ -630,5 +630,38 @@ figure_list:
     credit:
     alt: "Stages of creating a decorated corniche using a press mould."
 
-
+  - id: "4-1"
+    label: "Fig. 1"
+    src: figures/Versari/Fig-1-versari.jpg
+    caption: 
+    credit:
+    alt: ""
+  
+  - id: "4-2"
+    label: "Fig. 2"
+    src: figures/Versari/Fig-2-versari.jpg
+    caption: 
+    credit:
+    alt: ""
+  
+  - id: "4-3"
+    label: "Fig. 3"
+    src: figures/Versari/Fig-3-versari.jpg
+    caption: 
+    credit:
+    alt: ""
+  
+  - id: "4-4"
+    label: "Fig. 4"
+    src: figures/Versari/Fig-4-versari.jpg
+    caption: 
+    credit:
+    alt: ""
+  
+  - id: "4-5"
+    label: "Fig. 5"
+    src: figures/Versari/Fig-5-versari.jpg
+    caption: 
+    credit:
+    alt: ""
   
