@@ -3,41 +3,35 @@ title: Letter from the *Materia* editors
 subtitle: 
 layout: splash
 order: 10
-image: figures/frame/fig-3-frame.jpg
+image: figures/Fig-19.7-Jean_Felici_LFE.jpg
 
 ---
 
-# Materia Issue 3: Across Media
 
-Welcome back to *Materia: Journal of Technical Art History*, for our third and special-themed issue entitled Across Media. In this issue we aimed to  broaden our content to focus on objects beyond traditional easel paintings.  Such objects are often underrepresented within technical research, as well as art history in general. The result represents a diverse group of objects ranging from decorative metals, painted silk, oil sketches on paper, and stone-carved tomb effigies.
+Welcome back, readers, to another issue of *Materia: Journal of Technical Art History*! As *Materia* enters its fifth year of existence (can you believe it?!), this issue further broadens our exploration of what constitutes technical art history, showcasing articles that apply a technical lens to stained glass, decorative plaster, and architectural drawings as well as a theoretical exploration of the conservation of Futurist artworks. We are also pleased to debut our first translated article. 
 
-In this issue, we have a returning *Materia* contributor, Rowan Frame, presenting a feature article on the sketching practices of English landscape painter, John Constable. Frame  considers Constable’s prolific sketching output within the context of the growing nineteenth-century movement towards plein air or outdoor painting, which had already begun to flourish amongst European landscapists at the beginning of the century. Drawing upon nineteenth-century aesthetic debates, literature and poetry, she gives an account of the culturally situated idiosyncrasies of Constable’s sky sketches. Through trying her hand at “skying”, Frame explores the artist’s inner motivations and the pleasure such attention to changing  sky might have provided. The author’s innovative approach to exploring the artistic process is captured for the reader through time-lapsed videos, *Materia's* first  exploration of video as a means of exploring technical art history.
+In *Pride of the Last Peacock: A Look at John La Farge’s Final “Peacock Window,”* Amanda Chau shares her observations about an important, experimental window created by John La Farge at the end of his life. Through careful examination of this most personal work, Chau offers fresh insights into La Farge’s creativity and experimentation.  
 
-In addition, this issue features three technical case studies. The first, presented by art historian Dr. Antje Bosselman-Ruickbie from the University of Giessen, examines the material composition and stylistic details of a Medieval silver casket, currently housed in the collection of the Trier Cathedral Treasury in southwest Germany. Bosselman-Ruikbie reflects on the topic of cultural exchange between Sicily and the broader Mediterranean region during the twelfth and early thirteenth centuries, which famously culminated in an amalgam of cultural influences at the Palermitan court. 
+*The Coloured Edges of Van Eesteren and Van Doesburg* presents a conservation-driven investigation of the colored frames on nine mounted floor plans by architect Cornelis van Eesteren and artist Theo van Doesburg. As these frames had not been subject to material analysis prior to this study, Jurjen Munk provides a thorough technical examination, archival and provenance research, and analysis of the exhibition history of these unique objects. The study reconstructs the material biography of the works, establishing the colored frames’ authenticity and their conceptual significance in light of the principles and ideals of the De Stijl movement.
 
-The second case study features collaborative research of fourteenth-century tomb effigies in the Met Cloisters collection and the monastery of Santa Maria de Bellpuig de Les Avellanes in the Lleida province of Catalonia.  Through an international collaboration, Lucretia Kargère and Federico Caró, from the Metropolitan Museum of Art in New York, and Ramon Solé, José Luis Prada, Núria Guasch-Ferré and Marta Badia Cortada,a group of conservators and architectural scholars from Catalonia, Spain teamed up to study these works which, have remained geographically separate from their original architectural context since the beginning of the twentieth century. This separation  has made it difficult to evaluate the material consistencies between the carved stone monuments and their original architectural setting. By bringing together a range of material and stylistic analyses, including geological surveying at the nearby Las Avellanes stone quarries, the research team successfully reconstructs previously obscured links between the effigies and their original historical context. 
+*Plaster Decoration: The Stucco Makers from Southern Switzerland at Work* offers a comprehensive technical analysis of stucco production in the southern Swiss region of Canton Ticino during the sixteenth and seventeenth centuries. Utilizing archival research, technical literature, on-site visual examination, material analysis, and the creation of replicas to reconstruct historical stucco-making practices, Giacinta Jean and Alberto Felici uncover variations in both material composition and methods among different stuccatori and highlight the technical sophistication of stucco as a medium. By focusing on the material-technical aspects of plasterwork, their research demonstrates how practical knowledge and craftsmanship were pivotal in shaping early-modern stucco programs. The findings also lay the groundwork for research into the broader body of work by Ticenese stucco masters, who were active across Europe during this period.
 
-The final case study, written by Leila Sabouni, Ainslie Harrison and Kristin Moffit, from the Virginia Museum of Fine Arts, offers an in depth examination of a rare artifact - a Tibetan initiation crown, painted on silk, believed to date to the eighteenth century. Through a collaboration with the analytical laboratory at the Colonial Williamsburg Foundation, the crown was examined using a range of scientific techniques. These results weave together the hitherto unexplored details of a ceremonial crown of this type and date, contributing to a limited, yet steadily growing body of knowledge relating to the technical aspects of Tibetan material culture.
+In *The Adventure of a Feather, a Glass Ball, and a Seahorse: Methodological Reflections on the Material History of Futurist Artworks*, Maria Elena Versari explores methodological perspectives that stem from her archival exploration of the conservation history of a Futurist artwork housed in an American collection. The article is published here in both Italian and English.  
 
-To conclude this issue, the *Materia* editorial team have put together a special interview article, presenting the perspectives of six different scholars and practicing conservators, from various backgrounds and fields of expertise: Gerry Alabone, Nicholas Eastaugh, Kendall Francis, Anisha Gupta, Ann-Sophie Lehmann and Catherine Nunn. This dialogue, entitled Voices from the Field: Technical Art History Today, aims to be the first in a series of articles, designed to promote and encourage discourse relating to the field of technical art history - How do we define it? What is its relationship with art history? How can it be developed in the future? In this initial discussion piece, focus is placed on the methodologies and epistemological foundations of technical art history, as well the ways in which it can complement broader art historical discourse. In addition, the contributors reflect on examples where technical study has been successfully integrated as part of a broader art historical research project - something which we are always keen to promote as part of our mission here at *Materia*. 
+Lastly, we return with our readers’ favorite segment, *Voices from the Field*, this time featuring the perspectives of scholars Jørgen Wadum and Sally Woodcock, who reflect on their careers and expertise through a discussion of their backgrounds in conservation, archival research, and the integrated study of art objects. 
 
-As always, we would like to extend our thanks to the brilliant scholars who submitted their articles to this issue of *Materia*. Through your contributions our journal continues to grow and inspire new research within our field, creating a dynamic platform where diverse voices can gather and exchange ideas. Thank you also to our hard-working copy editor, Mary Cason, whose continued support is greatly appreciated by our editorial team.             
- 
+Many thanks to all of our authors and peer reviewers. We couldn’t have done it without you! 
 
-Wishing you all enjoyable reading,
-The *Materia* Team
+Happy reading! 
 
-
-
-
-Anouk Jonker
-Bianca Garcia
+Lucia Bay
 ‍Courtney Books
-‍Cynthia Prieur
+Bianca Garcia 
 ‍Emma Jansson
+Caroline Kirmer 
+Sami Norling
+Cynthia Prieur
 ‍Julie Ribits
-‍LaStarsha McGarity
-‍Lucia Bay
-‍Morgan Wylder
-‍Roxane Sperber
-‍Sophie Lamb
+Roxane Sperber, lead editor
+Morgan Wylder 
+
