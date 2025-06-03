@@ -664,4 +664,18 @@ figure_list:
     caption: "Enrico Prampolini, *Stato d'animo plastico marino (Automatismo polimaterico B)*, 1937, polimaterico on plaster, VAF-Stiftung Collection, Mart, Rovereto."
     credit:
     alt: ""
+
+  - id: "5-1"
+    label: 
+    src: figures/voices/fig1_jorgen.jpg
+    caption: 
+    credit:
+    alt: ""
+
+  - id: "5-2"
+    label: 
+    src: figures/voices/fig2_sally.jpg
+    caption: 
+    credit:
+    alt: ""
   
