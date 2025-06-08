@@ -11,14 +11,17 @@ contributor:
   - first_name: Jurjen
     last_name: Munk
     sort_as: "1"
-  
+
 abstract: |
-  This article explores how a conservator’s material perspective offers new insights into nine mounted floor plans created between 1923 and 1925 by architect Cornelis van Eesteren and artist Theo van Doesburg, a founder of De Stijl (1917–1931). These plans were designed for three architectural projects: <span style="color: DarkGoldenRod">Maison d’Artiste</span> (1923), <span style="color: SteelBlue">Maison Particulière</span> (1923), and <span style="color: DarkRed">Hôtel Particulier</span> (1923), and were first exhibited at Galerie L’Effort Moderne in Paris in 1923. A technical analysis conducted by conservation studio RNA – restauratie nijhoff asser during conservation treatments of the Theo van Doesburg Collection at Het Nieuwe Instituut in Rotterdam (Disclosing Architecture 2017–2022) revealed the significance of the coloured frames. These frames, initially overlooked, were found to be contemporary to the works and crucial to Van Doesburg and Van Eesteren’s early efforts to integrate painting and architecture. The study reveals how colour unified the three projects while highlighting their incomplete nature. It also examines the division of labour between Van Doesburg and Van Eesteren, emphasising the significance of material construction and differences between the original plans and their greyscale reproductions through analysis of exhibition history, provenance, and archival materials. Ultimately, the study offers a deeper understanding of the architectural projects and their transformation into works of art within the context of De Stijl’s artistic ideals.
+  This article explores how a conservator’s material perspective offers new insights into nine mounted floor plans created between 1923 and 1925 by architect Cornelis van Eesteren and artist Theo van Doesburg, a founder of De Stijl (1917–1931). These plans were designed for three architectural projects: Maison d’Artiste (1923), Maison Particulière (1923), and Hôtel Particulier(1923), and were first exhibited at Galerie L’Effort Moderne in Paris in 1923. A technical analysis conducted by conservation studio RNA – restauratie nijhoff asser during conservation treatments of the Theo van Doesburg Collection at Het Nieuwe Instituut in Rotterdam (Disclosing Architecture 2017–2022) revealed the significance of the coloured frames. These frames, initially overlooked, were found to be contemporary to the works and crucial to Van Doesburg and Van Eesteren’s early efforts to integrate painting and architecture. The study reveals how colour unified the three projects while highlighting their incomplete nature. It also examines the division of labour between Van Doesburg and Van Eesteren, emphasising the significance of material construction and differences between the original plans and their greyscale reproductions through analysis of exhibition history, provenance, and archival materials. Ultimately, the study offers a deeper understanding of the architectural projects and their transformation into works of art within the context of De Stijl’s artistic ideals.
 
   *This article has been approved for publication by peer review.
 ---
+ 
 
 {% figure '2-1' %}
+
+
 
 ## Introduction
 
