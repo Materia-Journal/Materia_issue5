@@ -8,8 +8,8 @@
 # publication.
 
 # ------------------------------------------------------------------------------
-# The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+# The publication's base URL, i.e. 'www.materiajournal.com'
+url: 'http://materiajournal.com'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -25,7 +25,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2025-06-23 # YYYY-MM-DD
 language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
@@ -34,8 +34,8 @@ identifier:
 
 publisher:
   - name: Materia
-    location: Los Angeles
-    url: https://https://materiajournal.com
+    location: San Diego
+    url: www.materiajournal.com
     logo: materia-logo.jpg
 
 # ------------------------------------------------------------------------------
@@ -46,114 +46,27 @@ contributor_as_it_appears:
 
 contributor:
 
-  - id: lkargère
-    type: primary
-    first_name: Lucretia
-    last_name: Kargère
-    title: Conservator
-    affiliation: Metropolitan Museum of Art, New York
-    bio: "Lucretia Kargère is a Conservator at the Metropolitan Museum of Art, New York"
+  - id: ftrujillo
+    type: secondary
+    first_name: Francisco H.
+    last_name: Trujillo
+    title: Drue Heinz Book Conservator
+    affiliation: The Morgan Library & Museum
+    bio: 
     url:
     image:
 
-  - id: rsolé
-    type: primary
-    first_name: Ramon
-    last_name: Solé
-    title: Conservator-Restorer
-    affiliation: Centre de Restauració de Béns Mobles de Catalunya, Barcelona
-    bio: "Ramon Solé is a Conservator-Restorer, adjunct to the Centre de Restauració de Béns Mobles de Catalunya, Barcelona"
-    url:
-    image:
 
-  - id: fcaró
-    type: primary
-    first_name: Federico
-    last_name: Caró
-    title: Research Scientist
-    affiliation: Metropolitan Museum of Art, New York
-    bio: "Federico Caró is a Research Scientist at the Metropolitan Museum of Art"
-    url:
-    image:
 
-  - id: jlprada
-    type: primary
-    first_name: José Luis
-    last_name: Prada
-    title: Professor of Geological Science
-    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
-    bio: "José Luis Prada is Professor of Geological Science at the Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya"
-    url:
-    image:
-
-  - id: nguasch-ferré
-    type: primary
-    first_name: Núria
-    last_name: Guasch-Ferré
-    title: Professor of Geological Science
-    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
-    bio: "Núria Guasch-Ferré is at the Departament d’Arts i Conservació Restauració, Facultat de Belles Arts, Universitat de Barcelona."
-    url:
-    image:
-
-  - id: abosselmann-ruickbie
-    type: primary
-    first_name: Antje
-    last_name: Bosselmann-Ruickbie
-    title: Assistant Professor of Art History
-    affiliation: Justus Liebig University Gießen, Institute of Art History, Germany
-    bio:
-    url:
-    image:
-
-  - id: rframe
-    type: primary
-    first_name: Rowan
-    last_name: Frame
-    title:  Conservator
-    affiliation: Julia Nagle Conservation Ltd., London
-    bio:
-    url:
-    image:
-
-  - id: lsabouni
-    type: primary
-    first_name: Leila
-    last_name: Sabouni
-    title:
-    affiliation:
-    bio:
-    url:
-    image:
-
-  - id: aharrison
-    type: primary
-    first_name: Ainslie
-    last_name: Harrison
-    title:
-    affiliation:
-    bio:
-    url:
-    image:
-
-  - id: kmoffitt
-    type: primary
-    first_name: Kirsten
-    last_name: Moffitt
-    title:
-    affiliation:
-    bio:
-    url:
-    image:
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2023 Materia 
+copyright: © 2025 Materia 
 
 license:
-  name: Creative Commons Attribution 4.0 International License
+  name: Creative Commons Attribution 4.0 International License CC-BY-NC-ND
   abbreviation: CC BY
   url: https://creativecommons.org/licenses/by/4.0/
   scope: full # full | text-only | some-exceptions

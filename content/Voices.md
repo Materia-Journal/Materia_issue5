@@ -3,7 +3,7 @@ label: V
 title: "Voices from the Field: Empiricism, Archives & the “Conservator’s Eye”"
 layout: essay
 order: 45
-peer_review: true
+peer_review: false
 class: page-one
 contributor:
   # - id: jmunk
