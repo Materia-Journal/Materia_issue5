@@ -630,38 +630,73 @@ figure_list:
     credit:
     alt: "Stages of creating a decorated corniche using a press mould."
 
-  - id: "4-1"
+  - id: "4a-1"
     label: "Fig. 1"
     src: figures/Versari/Fig-1-versari.jpg
     caption: "Photograph of the work by Enrico Prampolini, *Automatismo Polimaterico A* (1940, cm. 30.5 x 42, private collection) sent to Harry and Lydia Winston by Alessandro Prampolini in 1958, Beinecke Rare Book and Manuscript Library, Yale University."
     credit:
     alt: ""
   
-  - id: "4-2"
+  - id: "4a-2"
     label: "Fig. 2"
     src: figures/Versari/Fig-2-versari.jpg
     caption: "Enrico Prampolini, *Automatismo polimaterico C*, 1940, polimaterico on board 33 x 40.6 cm, Giancarlo and Danna Olgiati Collection, Lugano."
     credit:
     alt: ""
   
-  - id: "4-3"
+  - id: "4a-3"
     label: "Fig. 3"
     src: figures/Versari/Fig-3-versari.jpg
     caption: "Enrico Prampolini, *Automatismo polimaterico F*, 1941, collage and oil on board 32,4 x 40.6 cm, Giancarlo and Danna Olgiati Collection, Lugano."
     credit:
     alt: ""
   
-  - id: "4-4"
+  - id: "4a-4"
     label: "Fig. 4"
     src: figures/Versari/Fig-4-versari.jpg
     caption: "Bird feathers and photographs sent to Harry and Lydia Winston by Alessandro Prampolini in 1958, Beinecke Rare Book and Manuscript Library, Yale University."
     credit:
     alt: ""
   
-  - id: "4-5"
+  - id: "4a-5"
     label: "Fig. 5"
     src: figures/Versari/Fig-5-versari.jpg
     caption: "Enrico Prampolini, *Stato d'animo plastico marino (Automatismo polimaterico B)*, 1937, polimaterico on plaster, VAF-Stiftung Collection, Mart, Rovereto."
+    credit:
+    alt: ""
+
+  - id: "4b-1"
+    label: "Ill. 1"
+    src: figures/Versari/Fig-1-versari.jpg
+    caption: "Fotografia dell'opera di Enrico Prampolini, *Automatismo Polimaterico A* (1940, cm. 30.5 x 42, collezione privata) inviata ad Harry e Lydia Winston da Alessandro Prampolini nel 1958, Beinecke Rare Book and Manuscript Library, Yale University."
+    credit:
+    alt: ""
+  
+  - id: "4b-2"
+    label: "Ill. 2"
+    src: figures/Versari/Fig-2-versari.jpg
+    caption: "Enrico Prampolini, *Automatismo polimaterico C*, 1940, polimaterico su tavola 33 x 40.6 cm, Giancarlo e Danna Olgiati Collection, Lugano."
+    credit:
+    alt: ""
+  
+  - id: "4b-3"
+    label: "Ill. 3"
+    src: figures/Versari/Fig-3-versari.jpg
+    caption: "Enrico Prampolini, *Automatismo polimaterico F*, 1941, collage e olio su tavola 32,4 x 40.6 cm, Collezione Giancarlo e Danna Olgiati, Lugano."
+    credit:
+    alt: ""
+  
+  - id: "4b-4"
+    label: "Ill. 4"
+    src: figures/Versari/Fig-4-versari.jpg
+    caption: "Penne d'uccello e fotografie inviate a Harry e Lydia Winston da Alessandro Prampolini nel 1958, Beinecke Rare Book and Manuscript Library, Yale University."
+    credit:
+    alt: ""
+  
+  - id: "4b-5"
+    label: "Ill. 5"
+    src: figures/Versari/Fig-5-versari.jpg
+    caption: "Enrico Prampolini, *Stato d'animo plastico marino (Automatismo polimaterico B)*, 1937, polimaterico su gesso, Collezione VAF-Stiftung, Mart, Rovereto."
     credit:
     alt: ""
 
