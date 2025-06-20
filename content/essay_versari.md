@@ -1,6 +1,6 @@
 ---
 label: IVa
-title: "The adventure of a feather, a glass ball, and a seahorse: Methodological reflections on the material history of Futurist artworks."
+title: "The Adventure of a Feather, a Glass Ball, and a Seahorse: Methodological Reflections on the Material History of Futurist Artworks."
 layout: essay
 order: 35
 peer_review: true

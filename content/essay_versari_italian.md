@@ -1,6 +1,6 @@
 ---
 label: IVb
-title: "L'avventura di una piuma, di una pallina di vetro e di un cavalluccio marino: riflessioni metodologiche sulla storia materiale delle opere futuriste."
+title: "L'avventura di una Piuma, di una Pallina di Vetro e di un Cavalluccio Marino: Riflessioni Metodologiche sulla Storia Materiale delle Opere Futuriste."
 layout: essay
 order: 40
 peer_review: false
