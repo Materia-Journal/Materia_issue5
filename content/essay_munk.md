@@ -1,6 +1,6 @@
 ---
 label: II
-title: "The Coloured Edges of De Stijl: A Conservator's Perspective by Cornelis van Eesteren and Theo van Doesburg"
+title: "The Coloured Edges of De Stijl: A Conservator's Perspective on Artworks by Cornelis van Eesteren and Theo van Doesburg"
 layout: essay
 order: 30
 peer_review: true
